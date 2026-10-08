@@ -1,7 +1,7 @@
 {
   "dealership": "Go Richmond Kia",
-  "generated_at": "2026-10-07T10:01:24",
-  "vehicle_count": 388,
+  "generated_at": "2026-10-08T14:31:37",
+  "vehicle_count": 389,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -18,7 +18,9 @@
       "year": 2008,
       "make": "Mitsubishi",
       "model": "Endeavor SE",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2011 RAM 1500 Laramie",
@@ -34,23 +36,26 @@
       "year": 2011,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
-      "name": "2013 Kia Rio Hatchback 5-Door LX",
-      "vin": "KNADM5A33D6893292",
-      "stock": "PF0099A",
-      "color": "Blue",
-      "trim": "5-Door LX",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/438dc6059256.html",
-      "source_url": "https://www.gorichmondkia.ca/vehicles/2013/kia/rio-hatchback-5-door/richmond/bc/ad13145255/?sale_class=used",
-      "dealer_url": "https://www.gorichmondkia.ca/vehicles/2013/kia/rio-hatchback-5-door/richmond/bc/ad13145255/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T09:30:37",
-      "odometer_km": 132653,
-      "year": 2013,
+      "name": "2012 Kia Soul",
+      "vin": "KNDJT2A62C7480676",
+      "stock": "PK02960",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/395070f4d067.html",
+      "source_url": "https://www.gorichmondkia.ca/vehicles/2012/kia/soul/richmond/bc/ad13155988/?sale_class=used",
+      "dealer_url": "https://www.gorichmondkia.ca/vehicles/2012/kia/soul/richmond/bc/ad13155988/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T09:35:34",
+      "odometer_km": 254930,
+      "year": 2012,
       "make": "Kia",
-      "model": "Rio",
-      "condition": "used"
+      "model": "Soul",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2014 BMW 3 Series Sedan 320i xDrive - LOCAL - WELL MAINTAINED",
@@ -61,30 +66,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/b7fc0b9748be.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2014/bmw/3-series-sedan/richmond/bc/71291885/?sale_class=used",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2014/bmw/3-series-sedan/richmond/bc/71291885/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:00:09",
-      "price": 13395.0,
+      "last_verified": "2026-10-08T09:37:02",
+      "price": 13095.0,
       "price_currency": "CAD",
       "odometer_km": 110500,
       "year": 2014,
       "make": "BMW",
       "model": "3 Series",
-      "condition": "used"
-    },
-    {
-      "name": "2014 Nissan Leaf Hatchback S",
-      "vin": "1N4AZ0CP7EC336503",
-      "stock": "PF0089A",
-      "color": "Blue",
-      "trim": "S",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/b318533a3ec6.html",
-      "source_url": "https://www.gorichmondkia.ca/vehicles/2014/nissan/leaf-hatchback/richmond/bc/ad13126474/?sale_class=used",
-      "dealer_url": "https://www.gorichmondkia.ca/vehicles/2014/nissan/leaf-hatchback/richmond/bc/ad13126474/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-06T09:26:05",
-      "odometer_km": 88118,
-      "year": 2014,
-      "make": "Nissan",
-      "model": "Leaf",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2014 Subaru XV Crosstrek XV LIMITED / LEATHER/ ALLOYS / SUNROOF",
@@ -94,14 +85,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/443e7e54b670.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2014/subaru/xv-crosstrek/richmond/bc/70774828/?sale_class=used",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2014/subaru/xv-crosstrek/richmond/bc/70774828/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:00:18",
-      "price": 13495.0,
+      "last_verified": "2026-10-08T09:37:12",
+      "price": 13295.0,
       "price_currency": "CAD",
       "odometer_km": 132724,
       "year": 2014,
       "make": "Subaru",
       "model": "XV Crosstrek XV LIMITED / LEATHER/ ALLOYS / SUNROOF",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2015 Subaru XV Crosstrek Hybrid (CVT)",
@@ -111,14 +104,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/1ec0902afbad.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2015/subaru/xv-crosstrek/richmond/bc/70862808/?sale_class=used",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2015/subaru/xv-crosstrek/richmond/bc/70862808/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:00:29",
-      "price": 14495.0,
+      "last_verified": "2026-10-08T09:37:23",
+      "price": 14295.0,
       "price_currency": "CAD",
       "odometer_km": 91877,
       "year": 2015,
       "make": "Subaru",
       "model": "XV Crosstrek Hybrid (CVT)",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2016 Hyundai Tucson Premium",
@@ -134,7 +129,9 @@
       "year": 2016,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Santa Fe Sport Ultimate - ONE OWNER - LOCAL - DEALER MAINTAINED",
@@ -145,31 +142,35 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/002ff226f797.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2017/hyundai/santa-fe-sport/richmond/bc/71291883/?sale_class=used",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2017/hyundai/santa-fe-sport/richmond/bc/71291883/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:00:39",
-      "price": 15395.0,
+      "last_verified": "2026-10-08T09:37:34",
+      "price": 15195.0,
       "price_currency": "CAD",
       "odometer_km": 84831,
       "year": 2017,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
-      "name": "2017 Kia Sedona SXL+ / ONE OWNER / NO ACCIDENTS / MINT CONDITION!",
+      "name": "2017 Kia Sedona WHOLESALE UNIT- NOT FOR RETAIL SALE",
       "vin": "KNDME5C10H6270424",
       "stock": "447001A",
       "color": "Red",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/c5bfbbfdbd38.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2017/kia/sedona/richmond/bc/71382503/?sale_class=used",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2017/kia/sedona/richmond/bc/71382503/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:00:50",
+      "last_verified": "2026-10-08T09:37:45",
       "price": 18995.0,
       "price_currency": "CAD",
       "odometer_km": 111087,
       "year": 2017,
       "make": "Kia",
-      "model": "Sedona SXL+ / ONE OWNER / NO ACCIDENTS / MINT CONDITION!",
-      "condition": "used"
+      "model": "Sedona WHOLESALE UNIT- NOT FOR RETAIL SALE",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2017 MINI 3 Door Cooper - MANUAL - NO ACCIDENTS - LOW MILEAGE - LOCAL",
@@ -186,7 +187,9 @@
       "year": 2017,
       "make": "MINI",
       "model": "3 Door Cooper - MANUAL - NO ACCIDENTS - LOW MILEAGE - LOCAL",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2017 Mercedes-Benz C-Class Coupe C 300 4MATIC COUPE - CLEAN AND WELL MAINTIANED",
@@ -197,14 +200,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/6561cbfc72e2.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2017/mercedes-benz/c-class-coupe/richmond/bc/71382500/?sale_class=used",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2017/mercedes-benz/c-class-coupe/richmond/bc/71382500/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:01:00",
+      "last_verified": "2026-10-08T09:37:54",
       "price": 21195.0,
       "price_currency": "CAD",
       "odometer_km": 134940,
       "year": 2017,
       "make": "Mercedes-Benz",
       "model": "C-Class",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai IONIQ Electric Plus Limited - No Accidents - Dealer Serviced",
@@ -222,7 +227,9 @@
       "year": 2018,
       "make": "Hyundai",
       "model": "IONIQ Electric",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2018 Kia Sorento SXL - LOCAL - NO ACCIDENTS - ONE OWNER",
@@ -233,14 +240,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/280d3ec70c27.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2018/kia/sorento/richmond/bc/71382498/?sale_class=used",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2018/kia/sorento/richmond/bc/71382498/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:01:21",
+      "last_verified": "2026-10-08T09:38:03",
       "price": 18995.0,
       "price_currency": "CAD",
       "odometer_km": 112956,
       "year": 2018,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2018 Kia Soul LX - LOW KILOMETERS - NO ACCIDENTS",
@@ -251,14 +260,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/e9f7925c8cc6.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2018/kia/soul/richmond/bc/71194536/?sale_class=used",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2018/kia/soul/richmond/bc/71194536/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:01:32",
-      "price": 13495.0,
+      "last_verified": "2026-10-08T09:38:14",
+      "price": 13095.0,
       "price_currency": "CAD",
       "odometer_km": 41517,
       "year": 2018,
       "make": "Kia",
       "model": "Soul",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2018 Mercedes-Benz GLA GLA 250 4MATIC - LOW KILOMETERS",
@@ -269,14 +280,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/5cff2d580137.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2018/mercedes-benz/gla/richmond/bc/71289122/?sale_class=used",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2018/mercedes-benz/gla/richmond/bc/71289122/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:01:43",
-      "price": 17695.0,
+      "last_verified": "2026-10-08T09:38:23",
+      "price": 17495.0,
       "price_currency": "CAD",
       "odometer_km": 74326,
       "year": 2018,
       "make": "Mercedes-Benz",
       "model": "GLA",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2019 Honda CR-V EX - LOCAL - DEALER SERVICED",
@@ -294,7 +307,9 @@
       "year": 2019,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2019 Honda Odyssey EX - ONE OWNER - DEALER SERVICED!",
@@ -311,7 +326,9 @@
       "year": 2019,
       "make": "Honda",
       "model": "Odyssey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Sedona LX+ - ONE OWNER - LOCAL",
@@ -328,7 +345,9 @@
       "year": 2019,
       "make": "Kia",
       "model": "Sedona LX+ - ONE OWNER - LOCAL",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Sedona SXL+ FULLY LOADED",
@@ -345,7 +364,9 @@
       "year": 2019,
       "make": "Kia",
       "model": "Sedona SXL+ FULLY LOADED",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2020 Subaru Outback Limited XT - FULLY LOADED - DEALER MAINTAINED!",
@@ -363,7 +384,9 @@
       "year": 2020,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2021 BMW 3 Series Sedan 330I xDrive - LOADED - LOCAL CAR",
@@ -381,7 +404,9 @@
       "year": 2021,
       "make": "BMW",
       "model": "3 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2021 Kia Soul EX",
@@ -399,7 +424,9 @@
       "year": 2021,
       "make": "Kia",
       "model": "Soul",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2021 Mazda CX-5 GS upgrade - Low Kilometers - Well Kept!",
@@ -417,7 +444,9 @@
       "year": 2021,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2021 Toyota Corolla Sedan LE / LOCAL VEHICLE / CLEAN!",
@@ -435,7 +464,9 @@
       "year": 2021,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Chrysler 300 300S",
@@ -453,7 +484,9 @@
       "year": 2022,
       "make": "Chrysler",
       "model": "300",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Honda Civic Sedan SPORT / SUNROOF/ REMOTE STARTER/ APPLE CARPLAY",
@@ -471,7 +504,9 @@
       "year": 2022,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Kia Soul EV EV PREMIUM/ ONE OWNER/ NO ACCIDENTS/ LEASE RETURN",
@@ -488,7 +523,9 @@
       "year": 2022,
       "make": "Kia",
       "model": "Soul EV EV PREMIUM/ ONE OWNER/ NO ACCIDENTS/ LEASE RETURN",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Kia Soul EV EV PREMIUM/ NO ACCIDENTS/ NAVIGATION /  HEATED STEERING WHEEL",
@@ -506,7 +543,9 @@
       "year": 2022,
       "make": "Kia",
       "model": "Soul EV EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Kia Soul EV EV PREMIUM/ ONE OWNER/ NO ACCIDENTS/ LEASE RETURN",
@@ -523,25 +562,9 @@
       "year": 2022,
       "make": "Kia",
       "model": "Soul EV EV PREMIUM/ ONE OWNER/ NO ACCIDENTS/ LEASE RETURN",
-      "condition": "used"
-    },
-    {
-      "name": "2022 Kia Soul EV EV PREMIUM / NO ACCIDENTS/ BACK UP CAMERA/ HEATED SEATS",
-      "vin": "KNDJ23A26N7028609",
-      "stock": "PK02860",
-      "color": "Blue",
-      "trim": "PREMIUM",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/87feeb0ec395.html",
-      "source_url": "https://www.gorichmondkia.ca/vehicles/2022/kia/soul-ev/richmond/bc/70813831/?sale_class=used",
-      "dealer_url": "https://www.gorichmondkia.ca/vehicles/2022/kia/soul-ev/richmond/bc/70813831/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-06T09:28:04",
-      "price": 23295.0,
-      "price_currency": "CAD",
-      "odometer_km": 47005,
-      "year": 2022,
-      "make": "Kia",
-      "model": "Soul EV EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Kia Soul EV ev premium",
@@ -559,7 +582,9 @@
       "year": 2022,
       "make": "Kia",
       "model": "Soul EV EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Kia Soul EV EV PREMIUM",
@@ -577,7 +602,9 @@
       "year": 2022,
       "make": "Kia",
       "model": "Soul EV EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Kia Soul EV EV Premium",
@@ -595,7 +622,9 @@
       "year": 2022,
       "make": "Kia",
       "model": "Soul EV EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Kia Soul EV EV PREMIUM",
@@ -613,7 +642,9 @@
       "year": 2022,
       "make": "Kia",
       "model": "Soul EV EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Kia Soul EV EV Premium /  no accident",
@@ -631,7 +662,9 @@
       "year": 2022,
       "make": "Kia",
       "model": "Soul EV EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Kia Soul EV EV Premium",
@@ -649,7 +682,9 @@
       "year": 2022,
       "make": "Kia",
       "model": "Soul EV EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Kia Soul EX",
@@ -667,7 +702,9 @@
       "year": 2022,
       "make": "Kia",
       "model": "Soul",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Subaru Impreza Touring",
@@ -685,7 +722,9 @@
       "year": 2022,
       "make": "Subaru",
       "model": "Impreza",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2022 Tesla Model 3 Long Range",
@@ -703,7 +742,9 @@
       "year": 2022,
       "make": "Tesla",
       "model": "Model 3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Audi Q5 Komfort - QUATTRO AWD - LOW KILOMETERS - CLEAN!",
@@ -721,7 +762,9 @@
       "year": 2023,
       "make": "Audi",
       "model": "Q5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Honda Civic Sedan EX",
@@ -739,7 +782,9 @@
       "year": 2023,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Honda Civic Sedan Sport",
@@ -757,7 +802,9 @@
       "year": 2023,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Elantra Preferred",
@@ -775,7 +822,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Forte Sedan EX",
@@ -793,7 +842,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Soul EV EV Premium",
@@ -811,23 +862,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Soul EV EV",
-      "condition": "used"
-    },
-    {
-      "name": "2023 Kia Soul EV EV Limited",
-      "vin": "KNDJ33A1XP7030788",
-      "stock": "PK03078",
-      "color": "Blue",
-      "trim": "Limited",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/270ac472cc2a.html",
-      "source_url": "https://www.gorichmondkia.ca/vehicles/2023/kia/soul-ev/richmond/bc/ad13126473/?sale_class=used",
-      "dealer_url": "https://www.gorichmondkia.ca/vehicles/2023/kia/soul-ev/richmond/bc/ad13126473/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-06T09:26:15",
-      "odometer_km": 20347,
-      "year": 2023,
-      "make": "Kia",
-      "model": "Soul EV EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Soul EV EV Premium",
@@ -843,7 +880,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Soul EV EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Sportage EX Premium- ONE OWNER - NO ACCIDENTS",
@@ -861,7 +900,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Tesla Model Y LONG RANGE AWD NO ACCIDENTS",
@@ -879,7 +920,9 @@
       "year": 2023,
       "make": "Tesla",
       "model": "Model Y",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota Corolla Hybrid Hybrid SE",
@@ -897,7 +940,9 @@
       "year": 2023,
       "make": "Toyota",
       "model": "Corolla Hybrid Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Honda Civic Hatchback Sport Touring/ LEATHER/ NAVIGATION/ ALLOYS/ REMOTE STARTER",
@@ -914,7 +959,9 @@
       "year": 2024,
       "make": "Honda",
       "model": "Civic Hatchback Sport Touring/ LEATHER/ NAVIGATION/ ALLOYS/ REMOTE STARTER",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Honda Civic Sedan Touring",
@@ -932,7 +979,9 @@
       "year": 2024,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Carnival LX+",
@@ -950,7 +999,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Forte Sedan EX / Dealer Serviced / Local / No Accidents",
@@ -968,7 +1019,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Forte Sedan EX - LOCAL - NO ACCIDENTS",
@@ -986,7 +1039,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Seltos X-Line AWD / ONE OWNER/ ALLOYS/ BACK UP CAMERA",
@@ -1004,7 +1059,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Sorento X-Pro",
@@ -1022,7 +1079,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Sorento X-Pro - ONE OWNER - NO ACCIDENTS - LOCAL",
@@ -1040,7 +1099,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi Outlander PHEV SEL",
@@ -1058,7 +1119,9 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi Outlander SE",
@@ -1076,7 +1139,9 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi Outlander GT",
@@ -1094,10 +1159,12 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
-      "name": "2024 Mitsubishi RVR ES",
+      "name": "2024 Mitsubishi RVR ES AWD",
       "vin": "JA4AJUAU5RU608364",
       "stock": "PF0118",
       "color": "Silver",
@@ -1105,14 +1172,34 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/66269d4683d0.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2024/mitsubishi/rvr/richmond/bc/ad12998643/?sale_class=used",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2024/mitsubishi/rvr/richmond/bc/ad12998643/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T15:58:53",
-      "price": 21995.0,
+      "last_verified": "2026-10-08T09:36:07",
+      "price": 21895.0,
       "price_currency": "CAD",
       "odometer_km": 71168,
       "year": 2024,
       "make": "Mitsubishi",
       "model": "RVR",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "2024 Mitsubishi RVR ES",
+      "vin": "JA4AJUAU9RU607329",
+      "stock": "PF0119",
+      "color": "White",
+      "trim": "ES",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/2fda1f6c9361.html",
+      "source_url": "https://www.gorichmondkia.ca/vehicles/2024/mitsubishi/rvr/richmond/bc/ad13155990/?sale_class=used",
+      "dealer_url": "https://www.gorichmondkia.ca/vehicles/2024/mitsubishi/rvr/richmond/bc/ad13155990/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T09:35:45",
+      "odometer_km": 52369,
+      "year": 2024,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue PLATINUM/ LEASE RETURN/ LOCAL VEHICLE/ NO ACCIDENTS",
@@ -1129,7 +1216,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue PLATINUM/ LEASE RETURN/ LOCAL VEHICLE/ NO ACCIDENTS",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Corolla Hybrid Hybrid SE AWD - LOW KM - No Accidents - Local",
@@ -1147,7 +1236,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Corolla Hybrid Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Jetta Sedan Comfortline LOADED / LEATHER / SUNROOF",
@@ -1165,25 +1256,29 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
-      "name": "2025 Ford Bronco Sport Big Bend",
+      "name": "2025 Ford Bronco Sport BIG BEND",
       "vin": "3FMCR9BN2SRE32698",
       "stock": "PF0116",
       "color": "White",
-      "trim": "Big Bend",
+      "trim": "BIG BEND",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/acacbfd1d3c1.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2025/ford/bronco-sport/richmond/bc/ad12998635/?sale_class=used",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2025/ford/bronco-sport/richmond/bc/ad12998635/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T15:59:03",
-      "price": 28981.0,
+      "last_verified": "2026-10-08T09:36:18",
+      "price": 28995.0,
       "price_currency": "CAD",
       "odometer_km": 32800,
       "year": 2025,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 GMC HUMMER EV SUV 3X - NO ACCIDENTS - WELL KEPT!",
@@ -1201,7 +1296,9 @@
       "year": 2025,
       "make": "GMC",
       "model": "Hummer EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Honda CR-V Hybrid Touring",
@@ -1219,7 +1316,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Palisade Preferred/ AWD/ NO ACCIDENTS / 8 PASSENGER",
@@ -1237,7 +1336,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Santa Fe Hybrid HYBRID AWD PREFERRED",
@@ -1255,7 +1356,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Venue Preferred",
@@ -1271,7 +1374,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Kia K4 EX - LOCAL - NO ACCIDENTS",
@@ -1289,7 +1394,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "K4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Niro EV Wind",
@@ -1307,7 +1414,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Niro EV Wind+",
@@ -1325,7 +1434,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Sorento Plug-In Hybrid SX PHEV DEMO UNIT / MANAGER SPECIAL",
@@ -1343,7 +1454,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "Sorento Plug-In Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-5 GX",
@@ -1361,7 +1474,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Mitsubishi Outlander ES AWD/ AUGUST SPECIAL! / ALLOYS/ BACKUP CAMERA",
@@ -1379,7 +1494,27 @@
       "year": 2025,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "2025 Nissan Sentra Sedan SV",
+      "vin": "3N1AB8CV4SY374210",
+      "stock": "146883A",
+      "color": "Grey",
+      "trim": "SV",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/caf73237dc52.html",
+      "source_url": "https://www.gorichmondkia.ca/vehicles/2025/nissan/sentra-sedan/richmond/bc/ad13155991/?sale_class=used",
+      "dealer_url": "https://www.gorichmondkia.ca/vehicles/2025/nissan/sentra-sedan/richmond/bc/ad13155991/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T09:35:56",
+      "odometer_km": 19119,
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Sentra",
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Outback Premier XT",
@@ -1397,7 +1532,9 @@
       "year": 2025,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Corolla Sedan LE UPGRADE / NO ACCIDENTS/ LOCAL VEHICLE/ ALLOYS/ LEATHER STEERING WHEEL",
@@ -1415,7 +1552,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Grand Highlander XLE",
@@ -1431,7 +1570,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Grand Highlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota RAV4 LE AWD",
@@ -1449,25 +1590,29 @@
       "year": 2025,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
-      "name": "2025 Volkswagen Taos Trendline",
+      "name": "2025 Volkswagen Taos TRENDLINE / LOCAL VEHICLE/ NO ACCIDENTS",
       "vin": "3VV8C7B26SM062361",
       "stock": "PF0112",
       "color": "Grey",
-      "trim": "Trendline",
+      "trim": "TRENDLINE",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/e7704751e39a.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2025/volkswagen/taos/richmond/bc/ad12998648/?sale_class=used",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2025/volkswagen/taos/richmond/bc/ad12998648/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T15:59:14",
+      "last_verified": "2026-10-08T09:36:27",
       "price": 29881.0,
       "price_currency": "CAD",
       "odometer_km": 49190,
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 LT",
@@ -1483,43 +1628,49 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
-      "name": "2026 Dodge Durango GT HEMI V8 Plus",
+      "name": "2026 Dodge Durango GT HEMI V8 FULLY LOADED NO ACCIDENTS",
       "vin": "1C4SDJCT5TC216745",
       "stock": "PF0115",
       "color": "Grey",
-      "trim": "GT HEMI V8 Plus",
+      "trim": "GT HEMI V8 FULLY LOADED NO ACCIDENTS",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/b05a02c9ef86.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2026/dodge/durango/richmond/bc/ad12998649/?sale_class=used",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2026/dodge/durango/richmond/bc/ad12998649/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T15:59:24",
-      "price": 59888.0,
+      "last_verified": "2026-10-08T09:36:35",
+      "price": 54495.0,
       "price_currency": "CAD",
       "odometer_km": 36054,
       "year": 2026,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
-      "name": "2026 Ford Bronco Sport Outer Banks",
+      "name": "2026 Ford Bronco Sport OUTER BANKS",
       "vin": "3FMCR9CN3TRE15991",
       "stock": "PF0117",
       "color": "Black",
-      "trim": "Outer Banks",
+      "trim": "OUTER BANKS",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/dbc07a2d32e6.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2026/ford/bronco-sport/richmond/bc/ad12998634/?sale_class=used",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2026/ford/bronco-sport/richmond/bc/ad12998634/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T15:59:36",
-      "price": 37995.0,
+      "last_verified": "2026-10-08T09:36:44",
+      "price": 37991.0,
       "price_currency": "CAD",
       "odometer_km": 34200,
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Passport TrailSport / One Owner / No Accidents",
@@ -1537,7 +1688,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Passport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Essential - LOCAL - NO ACCIDENT",
@@ -1555,7 +1708,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 KIA EV9 Land Plus Package",
@@ -1573,7 +1728,9 @@
       "year": 2026,
       "make": "KIA",
       "model": "EV9",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia EV4 WIND/ NO ACCIDENTS/ ONE OWNER/ LOCAL VEHICLE",
@@ -1590,7 +1747,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "EV4 WIND/ NO ACCIDENTS/ ONE OWNER/ LOCAL VEHICLE",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos LX AWD/ LOCAL VEHICLE/ NO ACCIDENTS",
@@ -1608,7 +1767,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos LX AWD/ NO ACCIDENTS/ LOCAL VEHICLE / HEATED SEATS",
@@ -1626,7 +1787,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos LX AWD/ NO ACCIDENTS/ LOCAL VEHICLE/ HEATED SEATS",
@@ -1643,7 +1806,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltos LX AWD/ NO ACCIDENTS/ LOCAL VEHICLE/ HEATED SEATS",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos SX--MANAGER DEMO SALE",
@@ -1661,7 +1826,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Carnival Hybrid SX FWD; HYBRID!! 8 PASSENGER, 1.6L TURBO, DUAL SUNROOF, BOSE AUDIO, HEAD-UP DISPLAY, SURROUND VIEW, ",
@@ -1679,7 +1846,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Carnival Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Carnival Hybrid SX+ FWD; 7 PASSENGER!! VIP LOUNGE SEATS, DUAL SUNROOF, BOSE AUDIO, HEAD-UP DISPLAY, DIGITAL KEY, SUR",
@@ -1697,7 +1866,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Carnival Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Carnival LX+ FWD; POWER SLIDING DOORS!! SMART POWER LIFTGATE, HEATED SEATS/WHEEL, POWER DRIVER SEAT, 8 PASSEN",
@@ -1715,7 +1886,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Carnival LX+ FWD; POWER SLIDING DOORS!! SMART POWER LIFTGATE, HEATED SEATS/WHEEL, POWER DRIVER SEAT, 8 PASSEN",
@@ -1733,7 +1906,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Carnival LX+ FWD; POWER SLIDING DOORS!! SMART POWER LIFTGATE, HEATED SEATS/WHEEL, POWER DRIVER SEAT, 8 PASSEN",
@@ -1751,7 +1926,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Carnival EX+ FWD; DIGITAL CLUSTER!! PASSENGER VIEW CAMERA, SYNTHETIC LEATHER, POWER SLIDING DOORS, SMART POWE",
@@ -1769,7 +1946,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Carnival EX+ FWD; DIGITAL CLUSTER!! PASSENGER VIEW CAMERA, SYNTHETIC LEATHER, POWER SLIDING DOORS, SMART POWE",
@@ -1787,7 +1966,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Carnival SX+ FWD; FULLY LOADED!! 7 PASSENGER VIP LOUNGE SEATS, DUAL SUNROOF, BOSE AUDIO, HEAD-UP DISPLAY, DIG",
@@ -1805,7 +1986,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Carnival EX FWD; SYNTHETIC LEATHER!! 19 ALLOYS, POWER SLIDING DOORS, SMART POWER LIFTGATE, WIRELESS CHARGER, ",
@@ -1823,7 +2006,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Carnival EX+ FWD; 8 PASSENGER!! 3.5L V6!! POWER SLIDING DOORS, SMART POWER LIFTGATE, SYNTHETIC LEATHER, HEATE",
@@ -1841,7 +2026,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia EV4 GT-LINE FWD; FULLY ELECTRIC!! 488 KM RANGE!! GT-LINE STYLE, SUNROOF, HEATED/VENTILATED SEATS, HEATED",
@@ -1859,7 +2046,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "EV4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia EV4 GT-LINE LIMITED FWD; TOP TRIM EV!! 488 KM RANGE!! HARMAN KARDON AUDIO, SURROUND VIEW, BLIND VIEW, RE",
@@ -1877,7 +2066,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "EV4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia EV4 GT-LINE LIMITED FWD; TOP TRIM EV!! 488 KM RANGE!! HARMAN KARDON AUDIO, SURROUND VIEW, BLIND VIEW, RE",
@@ -1895,7 +2086,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "EV4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia EV9 LIGHT RWD; FULLY ELECTRIC!! 7 PASSENGER!! NACS CHARGE PORT, HEATED/COOLED FRONT SEATS, 12.3 NAVIGATI",
@@ -1913,7 +2106,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "EV9",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia EV9 Land w/Plus Package",
@@ -1930,7 +2125,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "EV9 Land w/Plus Package",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 Hatchback LX FWD; HEATED SEATS!! 12.3 DISPLAY, APPLE CARPLAY, ANDROID AUTO, KIA CONNECT, SMART KEY, REMOTE STA",
@@ -1948,7 +2145,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 Hatchback GT-LINE TURBO LIMITED FWD; TURBO!! FULLY LOADED!! HARMAN KARDON, SURROUND VIEW, BLIND VIEW, VENTILAT",
@@ -1966,7 +2165,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 EX FWD; HEATED SEATS!! 17 ALLOYS!! WIRELESS CHARGER, SMART KEY, REMOTE START, BLIND SPOT, REAR CROSS",
@@ -1984,7 +2185,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 EX FWD; HEATED SEATS!! 17 ALLOYS!! WIRELESS CHARGER, SMART KEY, REMOTE START, BLIND SPOT, REAR CROSS",
@@ -2002,7 +2205,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 EX FWD; HEATED SEATS!! 17 ALLOYS!! WIRELESS CHARGER, SMART KEY, REMOTE START, BLIND SPOT, REAR CROSS",
@@ -2020,7 +2225,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 EX+ FWD; PREMIUM SUNROOF!! SYNTHETIC LEATHER!! HEATED SEATS, DUAL-ZONE CLIMATE, WIRELESS CHARGER, SM",
@@ -2038,7 +2245,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 GT-LINE TURBO LIMITED FWD; TURBO!! FULLY LOADED!! HARMAN KARDON, SURROUND VIEW, BLIND VIEW, VENTILAT",
@@ -2056,7 +2265,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 EX PREMIUM FWD; NAVIGATION!! SUNROOF!! SYNTHETIC LEATHER, VENTILATED SEATS, HEATED REAR SEATS, POWER",
@@ -2074,7 +2285,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 EX PREMIUM FWD; NAVIGATION!! SUNROOF!! SYNTHETIC LEATHER, VENTILATED SEATS, HEATED REAR SEATS, POWER",
@@ -2092,7 +2305,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 GT-LINE TURBO LIMITED FWD; TURBO!! FULLY LOADED!! HARMAN KARDON, SURROUND VIEW, BLIND VIEW, VENTILAT",
@@ -2110,7 +2325,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 GT-LINE TURBO FWD; TURBO!! 18 ALLOYS!! SUNROOF, PADDLE SHIFTERS, NAVIGATION, 12.3 DIGITAL CLUSTER, H",
@@ -2128,7 +2345,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 GT-Line Turbo Limited",
@@ -2146,7 +2365,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 GT-LINE TURBO LIMITED FWD; TURBO!! FULLY LOADED!! HARMAN KARDON, SURROUND VIEW, BLIND VIEW, VENTILAT",
@@ -2164,7 +2385,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 EX+ FWD; PREMIUM SUNROOF!! SYNTHETIC LEATHER, HEATED SEATS/WHEEL, DUAL-ZONE CLIMATE, WIRELESS CHARGE",
@@ -2182,7 +2405,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 LX FWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, REMOTE START, KIA CONNECT, APPLE CARPLAY, ANDROID AU",
@@ -2200,7 +2425,28 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "2026 Kia K4 EX+ FWD; PREMIUM SUNROOF!! SYNTHETIC LEATHER!! HEATED SEATS, DUAL-ZONE CLIMATE, WIRELESS CHARGER, SM",
+      "vin": "3KPFU4DE8TE396475",
+      "stock": "396475",
+      "trim": "EX+ ; PREMIUM SUNROOF",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/6117813f5ffd.html",
+      "source_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/k4/richmond/bc/ad13155947/?sale_class=new",
+      "dealer_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/k4/richmond/bc/ad13155947/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T10:04:02",
+      "price": 30780.0,
+      "price_currency": "CAD",
+      "odometer_km": 10,
+      "year": 2026,
+      "make": "Kia",
+      "model": "K4",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2218,7 +2464,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2236,7 +2484,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2254,7 +2504,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2272,7 +2524,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2290,7 +2544,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2308,7 +2564,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2326,7 +2584,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2344,7 +2604,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2362,7 +2624,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2380,7 +2644,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2398,7 +2664,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2416,7 +2684,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2434,7 +2704,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2452,7 +2724,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2470,7 +2744,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND FWD; FULLY ELECTRIC!! 407 KM RANGE!! HEATED SEATS, NAVIGATION, APPLE CARPLAY, ANDROID AUTO, KIA",
@@ -2488,7 +2764,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WAVE FWD; FULLY LOADED!! SUNROOF!! VENTILATED SEATS, HEATED REAR SEATS, HARMAN KARDON AUDIO, HEAD-UP",
@@ -2506,7 +2784,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2524,7 +2804,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2542,7 +2824,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2560,7 +2844,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2578,7 +2864,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2596,7 +2884,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2614,7 +2904,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2632,7 +2924,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2650,7 +2944,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2668,7 +2964,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2686,7 +2984,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2704,7 +3004,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2722,7 +3024,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND FWD; FULLY ELECTRIC!! 407 KM RANGE!! HEATED SEATS, NAVIGATION, APPLE CARPLAY, ANDROID AUTO, KIA",
@@ -2740,7 +3044,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND FWD; FULLY ELECTRIC!! 407 KM RANGE!! HEATED SEATS, NAVIGATION, APPLE CARPLAY, ANDROID AUTO, KIA",
@@ -2758,7 +3064,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2776,7 +3084,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND FWD; FULLY ELECTRIC!! 407 KM RANGE!! HEATED SEATS, NAVIGATION, APPLE CARPLAY, ANDROID AUTO, KIA",
@@ -2794,7 +3104,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2812,7 +3124,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2830,7 +3144,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2848,7 +3164,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2866,7 +3184,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2884,7 +3204,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2902,7 +3224,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WAVE FWD; FULLY LOADED!! SUNROOF!! VENTILATED SEATS, HEATED REAR SEATS, HARMAN KARDON AUDIO, HEAD-UP",
@@ -2920,7 +3244,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2938,7 +3264,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND FWD; FULLY ELECTRIC!! 407 KM RANGE!! HEATED SEATS, NAVIGATION, APPLE CARPLAY, ANDROID AUTO, KIA",
@@ -2956,7 +3284,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2974,7 +3304,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -2992,7 +3324,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -3010,7 +3344,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND FWD; FULLY ELECTRIC!! 407 KM RANGE!! HEATED SEATS, NAVIGATION, APPLE CARPLAY, ANDROID AUTO, KIA",
@@ -3028,7 +3364,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -3046,7 +3384,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND FWD; FULLY ELECTRIC!! 407 KM RANGE!! HEATED SEATS, NAVIGATION, APPLE CARPLAY, ANDROID AUTO, KIA",
@@ -3064,7 +3404,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -3082,7 +3424,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -3100,7 +3444,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND FWD; FULLY ELECTRIC!! 407 KM RANGE!! HEATED SEATS, NAVIGATION, APPLE CARPLAY, ANDROID AUTO, KIA",
@@ -3118,7 +3464,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND FWD; FULLY ELECTRIC!! 407 KM RANGE!! HEATED SEATS, NAVIGATION, APPLE CARPLAY, ANDROID AUTO, KIA",
@@ -3136,7 +3484,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -3154,7 +3504,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND FWD; FULLY ELECTRIC!! 407 KM RANGE!! HEATED SEATS, NAVIGATION, APPLE CARPLAY, ANDROID AUTO, KIA",
@@ -3172,7 +3524,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -3190,7 +3544,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND FWD; FULLY ELECTRIC!! 407 KM RANGE!! HEATED SEATS, NAVIGATION, APPLE CARPLAY, ANDROID AUTO, KIA",
@@ -3208,7 +3564,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -3226,7 +3584,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND FWD; FULLY ELECTRIC!! 407 KM RANGE!! HEATED SEATS, NAVIGATION, APPLE CARPLAY, ANDROID AUTO, KIA",
@@ -3244,7 +3604,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND FWD; FULLY ELECTRIC!! 407 KM RANGE!! HEATED SEATS, NAVIGATION, APPLE CARPLAY, ANDROID AUTO, KIA",
@@ -3262,7 +3624,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND FWD; PRICE INCLUDES EVAP&REBATE; FULLY ELECTRIC!! 407 KM RANGE!! HEATED SEATS, NAVIGATION, APPL",
@@ -3279,7 +3643,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV WIND FWD; PRICE INCLUDES EVAP&REBATE; FULLY ELECTRIC!! 407 KM RANGE!! HEATED SEATS, NAVIGATION, APPL",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -3297,7 +3663,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -3315,7 +3683,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND FWD; FULLY ELECTRIC!! 407 KM RANGE!! HEATED SEATS, NAVIGATION, APPLE CARPLAY, ANDROID AUTO, KIA",
@@ -3333,7 +3703,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -3351,7 +3723,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -3369,7 +3743,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -3380,14 +3756,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/e350bae5fd26.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/niro-ev/richmond/bc/70383515/?sale_class=new",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/niro-ev/richmond/bc/70383515/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:20:37",
+      "last_verified": "2026-10-08T10:04:21",
       "price": 37888.0,
       "price_currency": "CAD",
       "odometer_km": 14,
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -3398,14 +3776,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/4cddf00d4611.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/niro-ev/richmond/bc/70383520/?sale_class=new",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/niro-ev/richmond/bc/70383520/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:20:47",
+      "last_verified": "2026-10-08T10:04:32",
       "price": 37888.0,
       "price_currency": "CAD",
       "odometer_km": 20,
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND FWD; FULLY ELECTRIC!! 407 KM RANGE!! HEATED SEATS, NAVIGATION, APPLE CARPLAY, ANDROID AUTO, KIA",
@@ -3416,14 +3796,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/60ba5a89eecf.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/niro-ev/richmond/bc/70424687/?sale_class=new",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/niro-ev/richmond/bc/70424687/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:20:56",
+      "last_verified": "2026-10-08T10:04:41",
       "price": 35888.0,
       "price_currency": "CAD",
       "odometer_km": 20,
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -3441,7 +3823,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -3459,7 +3843,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND FWD; FULLY ELECTRIC!! 407 KM RANGE!! HEATED SEATS, NAVIGATION, APPLE CARPLAY, ANDROID AUTO, KIA",
@@ -3470,14 +3856,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/58a3f1ae362c.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/niro-ev/richmond/bc/70469979/?sale_class=new",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/niro-ev/richmond/bc/70469979/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:21:27",
+      "last_verified": "2026-10-08T10:04:51",
       "price": 35888.0,
       "price_currency": "CAD",
       "odometer_km": 15,
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -3488,14 +3876,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/5219410b83d0.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/niro-ev/richmond/bc/70469983/?sale_class=new",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/niro-ev/richmond/bc/70469983/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:21:38",
+      "last_verified": "2026-10-08T10:05:01",
       "price": 37888.0,
       "price_currency": "CAD",
       "odometer_km": 12,
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -3506,14 +3896,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/595ee13e67ef.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/niro-ev/richmond/bc/70469985/?sale_class=new",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/niro-ev/richmond/bc/70469985/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:21:49",
+      "last_verified": "2026-10-08T10:05:11",
       "price": 37888.0,
       "price_currency": "CAD",
       "odometer_km": 15,
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -3524,14 +3916,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/c4f262826c95.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/niro-ev/richmond/bc/70524635/?sale_class=new",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/niro-ev/richmond/bc/70524635/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:21:59",
+      "last_verified": "2026-10-08T10:05:20",
       "price": 37888.0,
       "price_currency": "CAD",
       "odometer_km": 12,
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -3542,14 +3936,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/0bf586c1f5be.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/niro-ev/richmond/bc/70605347/?sale_class=new",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/niro-ev/richmond/bc/70605347/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:22:09",
+      "last_verified": "2026-10-08T10:05:31",
       "price": 37888.0,
       "price_currency": "CAD",
       "odometer_km": 20,
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND FWD; FULLY ELECTRIC!! 407 KM RANGE!! HEATED SEATS, NAVIGATION, APPLE CARPLAY, ANDROID AUTO, KIA",
@@ -3560,14 +3956,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/c2803428dbcc.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/niro-ev/richmond/bc/70618492/?sale_class=new",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/niro-ev/richmond/bc/70618492/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:22:18",
+      "last_verified": "2026-10-08T10:05:39",
       "price": 35888.0,
       "price_currency": "CAD",
       "odometer_km": 20,
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -3585,7 +3983,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
@@ -3603,7 +4003,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! 407 KM RANGE!! HEAT PUMP, SMART POWER LIFTGATE, WIRELESS CHARGER, POWER ",
@@ -3614,14 +4016,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/bbea49884b3e.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/niro-ev/richmond/bc/71219655/?sale_class=new",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/niro-ev/richmond/bc/71219655/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:22:48",
+      "last_verified": "2026-10-08T10:05:48",
       "price": 37888.0,
       "price_currency": "CAD",
       "odometer_km": 10,
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro Hybrid HEV SX FWD; HYBRID!! FULLY LOADED!! HARMAN KARDON AUDIO, HEAD-UP DISPLAY, DIGITAL KEY, HEATED/COOLED",
@@ -3639,7 +4043,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro Hybrid HEV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro Hybrid HEV SX FWD; HYBRID!! FULLY LOADED!! HARMAN KARDON AUDIO, HEAD-UP DISPLAY, DIGITAL KEY, HEATED/COOLED",
@@ -3657,7 +4063,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro Hybrid HEV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro Hybrid HEV SX FWD; HYBRID!! FULLY LOADED!! HARMAN KARDON AUDIO, HEAD-UP DISPLAY, DIGITAL KEY, HEATED/COOLED",
@@ -3675,7 +4083,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro Hybrid HEV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro Hybrid HEV SX FWD; HYBRID!! FULLY LOADED!! HARMAN KARDON AUDIO, HEAD-UP DISPLAY, DIGITAL KEY, HEATED/COOLED",
@@ -3686,14 +4096,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/f0e195bcb08d.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/niro-hybrid/richmond/bc/70469980/?sale_class=new",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/niro-hybrid/richmond/bc/70469980/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:23:27",
+      "last_verified": "2026-10-08T10:05:59",
       "price": 41830.0,
       "price_currency": "CAD",
       "odometer_km": 14,
       "year": 2026,
       "make": "Kia",
       "model": "Niro Hybrid HEV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro Hybrid LX FWD; HYBRID!! 4.4L/100KM COMBINED!! HEATED SEATS, DUAL-ZONE CLIMATE, APPLE CARPLAY, ANDROID AUTO,",
@@ -3711,7 +4123,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro Hybrid LX FWD; HYBRID!! 4.4L/100KM COMBINED!! HEATED SEATS, DUAL-ZONE CLIMATE, APPLE CARPLAY, ANDROID AUTO,",
@@ -3722,14 +4136,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/02b618715bd1.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/niro-hybrid/richmond/bc/70701160/?sale_class=new",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/niro-hybrid/richmond/bc/70701160/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:23:49",
+      "last_verified": "2026-10-08T10:06:09",
       "price": 33195.0,
       "price_currency": "CAD",
       "odometer_km": 10,
       "year": 2026,
       "make": "Kia",
       "model": "Niro Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro Hybrid LX FWD; HYBRID!! 4.4L/100KM COMBINED!! HEATED SEATS, DUAL-ZONE CLIMATE, APPLE CARPLAY, ANDROID AUTO,",
@@ -3740,14 +4156,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/508db84c511b.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/niro-hybrid/richmond/bc/70701163/?sale_class=new",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/niro-hybrid/richmond/bc/70701163/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:23:59",
+      "last_verified": "2026-10-08T10:06:20",
       "price": 33195.0,
       "price_currency": "CAD",
       "odometer_km": 10,
       "year": 2026,
       "make": "Kia",
       "model": "Niro Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos TURBOCHARGED!! LEATHER!! BOSE PREMIUM AUDIO!! HEATED & VENTILATED SEATS, HEATED STEERING WHEEL, SUNR",
@@ -3765,7 +4183,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos X-LINE AWD; RUGGED STYLING!! TURBOCHARGED!! HEATED SEATS/WHEEL, SUNROOF, NAVIGATION, APPLE CARPLAY, ",
@@ -3776,14 +4196,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/0bcc1524992d.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/seltos/richmond/bc/68090083/?sale_class=new",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/seltos/richmond/bc/68090083/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:24:20",
-      "price": 42153.0,
+      "last_verified": "2026-10-08T10:06:30",
+      "price": 40288.0,
       "price_currency": "CAD",
       "odometer_km": 20,
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos SX AWD; TURBOCHARGED!! LEATHER!! BOSE PREMIUM AUDIO!! HEATED & VENTILATED SEATS, HEATED STEERING WHE",
@@ -3794,14 +4216,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/5e0819cc6cd4.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/seltos/richmond/bc/68864896/?sale_class=new",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/seltos/richmond/bc/68864896/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T16:24:29",
-      "price": 38991.0,
+      "last_verified": "2026-10-08T10:06:41",
+      "price": 38288.0,
       "price_currency": "CAD",
       "odometer_km": 36,
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos SX AWD; TURBOCHARGED!! LEATHER!! BOSE PREMIUM AUDIO!! HEATED & VENTILATED SEATS, HEATED STEERING WHE",
@@ -3819,7 +4243,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos SX AWD; TURBOCHARGED!! LEATHER!! BOSE PREMIUM AUDIO!! HEATED & VENTILATED SEATS, HEATED STEERING WHE",
@@ -3837,7 +4263,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos SX AWD; TURBOCHARGED!! LEATHER!! BOSE PREMIUM AUDIO!! HEATED & VENTILATED SEATS, HEATED STEERING WHE",
@@ -3855,7 +4283,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos EX; SUNROOF!! SOFINO LEATHER!! HEATED SEATS/WHEEL, LED LIGHTS, BLIND SPOT, BACKUP CAMERA, APPLE CARP",
@@ -3873,7 +4303,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos SX TURBOCHARGED!! LEATHER!! BOSE PREMIUM AUDIO!! HEATED & VENTILATED SEATS, HEATED STEERING WHEEL, S",
@@ -3891,7 +4323,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos SX TURBOCHARGED!! LEATHER!! BOSE PREMIUM AUDIO!! HEATED & VENTILATED SEATS, HEATED STEERING WHEEL, S",
@@ -3909,7 +4343,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos SX TURBOCHARGED!! LEATHER!! BOSE PREMIUM AUDIO!! HEATED & VENTILATED SEATS, HEATED STEERING WHEEL, S",
@@ -3927,7 +4363,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos EX PREMIUM AWD; SUNROOF!! SOFINO LEATHER!! HEATED/COOLED SEATS, HEATED STEERING WHEEL, HEATED REAR S",
@@ -3945,7 +4383,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos SX TURBOCHARGED!! LEATHER!! BOSE PREMIUM AUDIO!! HEATED & VENTILATED SEATS, HEATED STEERING WHEEL, S",
@@ -3963,7 +4403,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos EX PREMIUM AWD; SUNROOF!! SOFINO LEATHER!! HEATED/COOLED SEATS, HEATED STEERING WHEEL, HEATED REAR S",
@@ -3981,7 +4423,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos LX; HEATED SEATS!! 17 ALLOYS!! APPLE CARPLAY, ANDROID AUTO, BLIND SPOT, LANE KEEP ASSIST, BACKUP CAM",
@@ -3999,7 +4443,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos TURBOCHARGED!! LEATHER!! BOSE PREMIUM AUDIO!! HEATED & VENTILATED SEATS, HEATED STEERING WHEEL, SUNR",
@@ -4017,7 +4463,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos EX PREMIUM AWD; SUNROOF!! SOFINO LEATHER!! HEATED/COOLED SEATS, HEATED STEERING WHEEL, HEATED REAR S",
@@ -4035,7 +4483,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid EX AWD; HYBRID!! SYNTHETIC LEATHER, HEATED SEATS/WHEEL, WIRELESS CHARGER, SMART POWER LIFTGATE, 12.3",
@@ -4053,7 +4503,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid SX AWD; FULLY LOADED HYBRID!! PANORAMIC SUNROOF, LEATHER, HEATED/COOLED SEATS, HEATED REAR SEATS, BO",
@@ -4071,7 +4523,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid EX AWD; HYBRID!! SYNTHETIC LEATHER, HEATED SEATS/WHEEL, WIRELESS CHARGER, SMART POWER LIFTGATE, 12.3",
@@ -4089,7 +4543,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid EX AWD; HYBRID!! SYNTHETIC LEATHER, HEATED SEATS/WHEEL, WIRELESS CHARGER, SMART POWER LIFTGATE, 12.3",
@@ -4107,7 +4563,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid LX AWD; HYBRID!! 6 PASSENGER, HEATED SEATS, 12.3 DISPLAY, APPLE CARPLAY, ANDROID AUTO, KIA CONNECT, ",
@@ -4125,7 +4583,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid EX AWD; HYBRID!! SYNTHETIC LEATHER, HEATED SEATS/WHEEL, WIRELESS CHARGER, SMART POWER LIFTGATE, 12.3",
@@ -4143,7 +4603,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid SX AWD; FULLY LOADED HYBRID!! PANORAMIC SUNROOF, LEATHER, HEATED/COOLED SEATS, HEATED REAR SEATS, BO",
@@ -4161,7 +4623,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid SX AWD; FULLY LOADED HYBRID!! PANORAMIC SUNROOF, LEATHER, HEATED/COOLED SEATS, HEATED REAR SEATS, BO",
@@ -4179,7 +4643,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid SX AWD; FULLY LOADED HYBRID!! PANORAMIC SUNROOF, LEATHER, HEATED/COOLED SEATS, HEATED REAR SEATS, BO",
@@ -4197,7 +4663,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid SX AWD; FULLY LOADED HYBRID!! 6 PASSENGER, PANORAMIC SUNROOF, LEATHER, HEATED/COOLED SEATS, HEATED R",
@@ -4215,7 +4683,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid SX AWD; FULLY LOADED HYBRID!! 6 PASSENGER, PANORAMIC SUNROOF, LEATHER, HEATED/COOLED SEATS, HEATED R",
@@ -4233,7 +4703,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid SX AWD; FULLY LOADED HYBRID!! 6 PASSENGER, PANORAMIC SUNROOF, LEATHER, HEATED/COOLED SEATS, HEATED R",
@@ -4251,7 +4723,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid LX AWD; HYBRID!! 6 PASSENGER, 1.6L TURBO, HEATED SEATS, 12.3 DISPLAY, APPLE CARPLAY, ANDROID AUTO, K",
@@ -4269,7 +4743,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid MANAGER DEMO- HYBRID SX",
@@ -4287,7 +4763,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Plug-In Hybrid LX AWD; PLUG-IN HYBRID!! 55 KM EV RANGE!! 6 PASSENGER, HEATED SEATS, 12.3 DISPLAY, APPLE CARPLAY, AN",
@@ -4305,7 +4783,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Plug-In Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Plug-In Hybrid LX AWD; PLUG-IN HYBRID!! 55 KM EV RANGE!! 6 PASSENGER, HEATED SEATS, 12.3 DISPLAY, APPLE CARPLAY, AN",
@@ -4323,7 +4803,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Plug-In Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Plug-In Hybrid LX AWD; PLUG-IN HYBRID!! 55 KM EV RANGE!! 6 PASSENGER, HEATED SEATS, 12.3 DISPLAY, APPLE CARPLAY, AN",
@@ -4341,7 +4823,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Plug-In Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Plug-In Hybrid LX AWD; PLUG-IN HYBRID!! 55 KM EV RANGE!! 6 PASSENGER, HEATED SEATS, 12.3 DISPLAY, APPLE CARPLAY, AN",
@@ -4359,7 +4843,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Plug-In Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Plug-In Hybrid LX AWD; PLUG-IN HYBRID!! 55 KM EV RANGE!! 6 PASSENGER, HEATED SEATS, 12.3 DISPLAY, APPLE CARPLAY, AN",
@@ -4377,7 +4863,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Plug-In Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Plug-In Hybrid LX AWD; PLUG-IN HYBRID!! 55 KM EV RANGE!! 6 PASSENGER, HEATED SEATS, 12.3 DISPLAY, APPLE CARPLAY, AN",
@@ -4395,7 +4883,28 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Plug-In Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "2026 Kia Sorento Plug-In Hybrid SX",
+      "vin": "KNDRMDJH4T5501911",
+      "stock": "501911",
+      "trim": "SX",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/dcfb479375da.html",
+      "source_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/sorento-plug-in-hybrid/richmond/bc/ad13155948/?sale_class=new",
+      "dealer_url": "https://www.gorichmondkia.ca/vehicles/2026/kia/sorento-plug-in-hybrid/richmond/bc/ad13155948/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T10:04:13",
+      "price": 63180.0,
+      "price_currency": "CAD",
+      "odometer_km": 10,
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sorento Plug-In Hybrid",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Hybrid DEMO SALE!!!   EX HYBRID AWD; ! SYNTHETIC LEATHER, HEATED SEATS/WHEEL, NAVIGATION, WIRELESS CHARGER,",
@@ -4413,7 +4922,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Hybrid EX AWD; HYBRID!! SYNTHETIC LEATHER, HEATED SEATS/WHEEL, NAVIGATION, WIRELESS CHARGER, SMART KEY, REM",
@@ -4431,7 +4942,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Hybrid EX AWD; HYBRID!! SYNTHETIC LEATHER, HEATED SEATS/WHEEL, NAVIGATION, WIRELESS CHARGER, SMART KEY, REM",
@@ -4449,7 +4962,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Hybrid EX PREMIUM AWD; HYBRID!! PANORAMIC SUNROOF, SYNTHETIC LEATHER, HEATED/COOLED SEATS, HEATED REAR SEAT",
@@ -4467,7 +4982,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Hybrid EX AWD; HYBRID!! SYNTHETIC LEATHER, HEATED SEATS/WHEEL, NAVIGATION, WIRELESS CHARGER, SMART KEY, REM",
@@ -4485,7 +5002,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Hybrid EX AWD; HYBRID!! SYNTHETIC LEATHER, HEATED SEATS/WHEEL, NAVIGATION, WIRELESS CHARGER, SMART KEY, REM",
@@ -4503,7 +5022,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Plug-in Hybrid EX AWD; PLUG-IN HYBRID!! UP TO 55 KM EV RANGE!! HEATED SEATS/WHEEL, 12.3 DISPLAY, WIRELESS CHARGER, ",
@@ -4521,7 +5042,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage Plug-In Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Plug-in Hybrid EX AWD; PLUG-IN HYBRID!! UP TO 55 KM EV RANGE!! HEATED SEATS/WHEEL, 12.3 DISPLAY, WIRELESS CHARGER, ",
@@ -4539,7 +5062,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage Plug-In Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX AWD; PANORAMIC SUNROOF!! SYNTHETIC LEATHER!! HEATED SEATS/WHEEL, NAVIGATION, DUAL-ZONE CLIMATE, R",
@@ -4557,7 +5082,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX PREMIUM AWD; PANORAMIC SUNROOF!! VENTILATED SEATS!! HEATED REAR SEATS, SMART POWER LIFTGATE, MEMO",
@@ -4575,7 +5102,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX PREMIUM AWD; PANORAMIC SUNROOF!! VENTILATED SEATS!! HEATED REAR SEATS, SMART POWER LIFTGATE, MEMO",
@@ -4593,7 +5122,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX PREMIUM AWD; PANORAMIC SUNROOF!! VENTILATED SEATS!! HEATED REAR SEATS, SMART POWER LIFTGATE, MEMO",
@@ -4611,7 +5142,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX PREMIUM AWD; PANORAMIC SUNROOF!! VENTILATED SEATS!! HEATED REAR SEATS, SMART POWER LIFTGATE, MEMO",
@@ -4629,7 +5162,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX PREMIUM AWD; PANORAMIC SUNROOF!! VENTILATED SEATS!! HEATED REAR SEATS, SMART POWER LIFTGATE, MEMO",
@@ -4647,7 +5182,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-LINE LIMITED AWD; TOP TRIM!! PANORAMIC SUNROOF!! HARMAN KARDON AUDIO, HEAD-UP DISPLAY, SURROUND VI",
@@ -4665,7 +5202,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX PREMIUM AWD; PANORAMIC SUNROOF!! VENTILATED SEATS!! HEATED REAR SEATS, SMART POWER LIFTGATE, MEMO",
@@ -4683,7 +5222,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX AWD; PANORAMIC SUNROOF!! SYNTHETIC LEATHER!! HEATED SEATS/WHEEL, NAVIGATION, DUAL-ZONE CLIMATE, R",
@@ -4701,7 +5242,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX PREMIUM AWD; PANORAMIC SUNROOF!! VENTILATED SEATS!! HEATED REAR SEATS, SMART POWER LIFTGATE, MEMO",
@@ -4719,7 +5262,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX AWD; PANORAMIC SUNROOF!! SYNTHETIC LEATHER!! HEATED SEATS/WHEEL, NAVIGATION, DUAL-ZONE CLIMATE, R",
@@ -4737,7 +5282,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX PREMIUM AWD; PANORAMIC SUNROOF!! VENTILATED SEATS!! HEATED REAR SEATS, SMART POWER LIFTGATE, MEMO",
@@ -4755,7 +5302,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-LINE LIMITED AWD; TOP TRIM!! PANORAMIC SUNROOF!! HARMAN KARDON AUDIO, HEAD-UP DISPLAY, SURROUND VI",
@@ -4773,7 +5322,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-LINE LIMITED AWD; TOP TRIM!! PANORAMIC SUNROOF!! HARMAN KARDON AUDIO, HEAD-UP DISPLAY, SURROUND VI",
@@ -4791,7 +5342,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-LINE LIMITED AWD; TOP TRIM!! PANORAMIC SUNROOF!! HARMAN KARDON AUDIO, HEAD-UP DISPLAY, SURROUND VI",
@@ -4809,7 +5362,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX AWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, LED LIGHTS, APPLE CARPLAY, ANDROID AUTO, BACKUP CAME",
@@ -4827,7 +5382,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-LINE LIMITED AWD; TOP TRIM!! PANORAMIC SUNROOF!! HARMAN KARDON AUDIO, HEAD-UP DISPLAY, SURROUND VI",
@@ -4845,7 +5402,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-LINE LIMITED AWD; TOP TRIM!! PANORAMIC SUNROOF!! HARMAN KARDON AUDIO, HEAD-UP DISPLAY, SURROUND VI",
@@ -4863,7 +5422,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX PREMIUM AWD; PANORAMIC SUNROOF!! VENTILATED SEATS!! HEATED REAR SEATS, SMART POWER LIFTGATE, MEMO",
@@ -4881,7 +5442,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX AWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, LED LIGHTS, APPLE CARPLAY, ANDROID AUTO, BACKUP CAME",
@@ -4899,7 +5462,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX AWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, LED LIGHTS, APPLE CARPLAY, ANDROID AUTO, BACKUP CAME",
@@ -4917,7 +5482,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX AWD; PANORAMIC SUNROOF!! SYNTHETIC LEATHER!! HEATED SEATS/WHEEL, NAVIGATION, DUAL-ZONE CLIMATE, R",
@@ -4935,7 +5502,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-LINE LIMITED AWD; TOP TRIM!! PANORAMIC SUNROOF!! HARMAN KARDON AUDIO, HEAD-UP DISPLAY, SURROUND VI",
@@ -4953,7 +5522,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-LINE LIMITED AWD; TOP TRIM!! PANORAMIC SUNROOF!! HARMAN KARDON AUDIO, HEAD-UP DISPLAY, SURROUND VI",
@@ -4971,7 +5542,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-LINE LIMITED AWD; TOP TRIM!! PANORAMIC SUNROOF!! HARMAN KARDON AUDIO, HEAD-UP DISPLAY, SURROUND VI",
@@ -4989,7 +5562,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-LINE LIMITED AWD; TOP TRIM!! PANORAMIC SUNROOF!! HARMAN KARDON AUDIO, HEAD-UP DISPLAY, SURROUND VI",
@@ -5007,7 +5582,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-LINE LIMITED AWD; TOP TRIM!! PANORAMIC SUNROOF!! HARMAN KARDON AUDIO, HEAD-UP DISPLAY, SURROUND VI",
@@ -5025,7 +5602,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX AWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, LED LIGHTS, APPLE CARPLAY, ANDROID AUTO, BACKUP CAME",
@@ -5043,7 +5622,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX AWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, LED LIGHTS, APPLE CARPLAY, ANDROID AUTO, BACKUP CAME",
@@ -5061,7 +5642,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX AWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, LED LIGHTS, APPLE CARPLAY, ANDROID AUTO, BACKUP CAME",
@@ -5079,7 +5662,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX AWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, LED LIGHTS, APPLE CARPLAY, ANDROID AUTO, BACKUP CAME",
@@ -5097,7 +5682,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX AWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, LED LIGHTS, APPLE CARPLAY, ANDROID AUTO, BACKUP CAME",
@@ -5115,7 +5702,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX AWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, LED LIGHTS, APPLE CARPLAY, ANDROID AUTO, BACKUP CAME",
@@ -5133,7 +5722,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX AWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, LED LIGHTS, APPLE CARPLAY, ANDROID AUTO, BACKUP CAME",
@@ -5151,7 +5742,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX AWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, LED LIGHTS, APPLE CARPLAY, ANDROID AUTO, BACKUP CAME",
@@ -5169,7 +5762,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-LINE LIMITED AWD; TOP TRIM!! PANORAMIC SUNROOF!! HARMAN KARDON AUDIO, HEAD-UP DISPLAY, SURROUND VI",
@@ -5187,7 +5782,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX AWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, LED LIGHTS, APPLE CARPLAY, ANDROID AUTO, BACKUP CAME",
@@ -5205,7 +5802,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX AWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, LED LIGHTS, APPLE CARPLAY, ANDROID AUTO, BACKUP CAME",
@@ -5223,7 +5822,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX AWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, LED LIGHTS, APPLE CARPLAY, ANDROID AUTO, BACKUP CAME",
@@ -5241,7 +5842,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX AWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, LED LIGHTS, APPLE CARPLAY, ANDROID AUTO, BACKUP CAME",
@@ -5259,7 +5862,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX AWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, LED LIGHTS, APPLE CARPLAY, ANDROID AUTO, BACKUP CAME",
@@ -5277,7 +5882,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX AWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, LED LIGHTS, APPLE CARPLAY, ANDROID AUTO, BACKUP CAME",
@@ -5295,7 +5902,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX AWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, LED LIGHTS, APPLE CARPLAY, ANDROID AUTO, BACKUP CAME",
@@ -5313,7 +5922,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX AWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, LED LIGHTS, APPLE CARPLAY, ANDROID AUTO, BACKUP CAME",
@@ -5331,7 +5942,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX PREMIUM AWD; PANORAMIC SUNROOF!! VENTILATED SEATS!! HEATED REAR SEATS, SMART POWER LIFTGATE, MEMO",
@@ -5349,7 +5962,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-LINE LIMITED AWD; TOP TRIM!! PANORAMIC SUNROOF!! HARMAN KARDON AUDIO, HEAD-UP DISPLAY, SURROUND VI",
@@ -5367,7 +5982,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX Premium",
@@ -5385,7 +6002,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-LINE AWD; RUGGED STYLE!! 19 ALLOYS!! BLACK ACCENTS, LADDER ROOF RAILS, SYNTHETIC LEATHER, HEATED S",
@@ -5403,7 +6022,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-LINE LIMITED AWD; TOP TRIM!! PANORAMIC SUNROOF!! HARMAN KARDON AUDIO, HEAD-UP DISPLAY, SURROUND VI",
@@ -5421,7 +6042,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX PREMIUM AWD; PANORAMIC SUNROOF!! VENTILATED SEATS!! HEATED REAR SEATS, SMART POWER LIFTGATE, MEMO",
@@ -5439,7 +6062,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX",
@@ -5457,7 +6082,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-LINE LIMITED AWD; TOP TRIM!! PANORAMIC SUNROOF!! HARMAN KARDON AUDIO, HEAD-UP DISPLAY, SURROUND VI",
@@ -5475,7 +6102,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-LINE AWD; RUGGED STYLE!! 19 ALLOYS!! BLACK ACCENTS, LADDER ROOF RAILS, SYNTHETIC LEATHER, HEATED S",
@@ -5493,7 +6122,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-LINE AWD; RUGGED STYLE!! 19 ALLOYS!! BLACK ACCENTS, LADDER ROOF RAILS, SYNTHETIC LEATHER, HEATED S",
@@ -5511,7 +6142,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX AWD; PANORAMIC SUNROOF!! SYNTHETIC LEATHER!! HEATED SEATS/WHEEL, NAVIGATION, DUAL-ZONE CLIMATE, R",
@@ -5529,7 +6162,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX AWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, LED LIGHTS, APPLE CARPLAY, ANDROID AUTO, BACKUP CAME",
@@ -5547,7 +6182,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-LINE AWD; RUGGED STYLE!! 19 ALLOYS!! BLACK ACCENTS, LADDER ROOF RAILS, SYNTHETIC LEATHER, HEATED S",
@@ -5565,7 +6202,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, LED LIGHTS, APPLE CARPLAY, ANDROID AUTO, BACKUP CAMERA, ",
@@ -5583,7 +6222,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-LINE AWD; RUGGED STYLE!! 19 ALLOYS!! BLACK ACCENTS, LADDER ROOF RAILS, SYNTHETIC LEATHER, HEATED S",
@@ -5601,7 +6242,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX AWD; PANORAMIC SUNROOF!! SYNTHETIC LEATHER!! HEATED SEATS/WHEEL, NAVIGATION, DUAL-ZONE CLIMATE, R",
@@ -5619,7 +6262,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX PREMIUM AWD; PANORAMIC SUNROOF!! HEATED/COOLED SEATS, HEATED REAR SEATS, HEATED WHEEL, SMART POWE",
@@ -5637,7 +6282,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX Premium- MANAGER DEMO",
@@ -5655,10 +6302,12 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
-      "name": "2026 Mercedes-Benz GLA GLA 250",
+      "name": "2026 Mercedes-Benz GLA GLA 250 / NO ACCIDENTS/ LOCAL VEHICLE FULLY LOADED",
       "vin": "W1N4N4HB2TJ765802",
       "stock": "PF0114",
       "color": "White",
@@ -5666,14 +6315,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/a2d5e77f680b.html",
       "source_url": "https://www.gorichmondkia.ca/vehicles/2026/mercedes-benz/gla/richmond/bc/ad12998638/?sale_class=used",
       "dealer_url": "https://www.gorichmondkia.ca/vehicles/2026/mercedes-benz/gla/richmond/bc/ad12998638/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-01T15:59:48",
-      "price": 44995.0,
+      "last_verified": "2026-10-08T09:36:53",
+      "price": 41995.0,
       "price_currency": "CAD",
       "odometer_km": 42408,
       "year": 2026,
       "make": "Mercedes-Benz",
       "model": "GLA",
-      "condition": "used"
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival Hybrid SX+ HYBRID!!!RARE",
@@ -5691,7 +6342,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival Hybrid SX+ FWD; FULLY LOADED HYBRID!! 7 PASSENGER, VIP LOUNGE SEATS, BOSE AUDIO, HEAD-UP DISPLAY, SURROUND ",
@@ -5709,7 +6362,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival Hybrid HYBRID LX+ FWD; HYBRID!! 8 PASSENGER, POWER SLIDING DOORS, SMART POWER LIFTGATE, HEATED SEATS/WHEEL,",
@@ -5727,7 +6382,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival Hybrid Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival SX+ FWD; 7 PASSENGER!! VIP LOUNGE SEATS, DUAL SUNROOF, BOSE AUDIO, HEAD-UP DISPLAY, DIGITAL KEY, SUR",
@@ -5745,7 +6402,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival EX FWD; 8 PASSENGER!! 3.5L V6!! SYNTHETIC LEATHER, POWER SLIDING DOORS, SMART POWER LIFTGATE, HEATED",
@@ -5763,7 +6422,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival EX FWD; 8 PASSENGER!! 3.5L V6!! SYNTHETIC LEATHER, POWER SLIDING DOORS, SMART POWER LIFTGATE, HEATED",
@@ -5781,7 +6442,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival EX+ FWD; 8 PASSENGER!! 3.5L V6!! POWER SLIDING DOORS, SMART POWER LIFTGATE, SYNTHETIC LEATHER, HEATE",
@@ -5799,7 +6462,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival LX+ FWD; HYBRID!! 8 PASSENGER, POWER SLIDING DOORS, SMART POWER LIFTGATE, HEATED SEATS/WHEEL, POWER ",
@@ -5817,7 +6482,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival SX+ GAS FWD; 7 PASSENGER, VIP LOUNGE SEATS, BOSE AUDIO, HEAD-UP DISPLAY, SURROUND VIEW, BLIND VIEW, ",
@@ -5835,7 +6502,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival LX FWD; 8 PASSENGER!! 3.5L V6!! 12.3 DISPLAY, APPLE CARPLAY, ANDROID AUTO, KIA CONNECT, SMART CRUISE",
@@ -5853,7 +6522,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival LX+ FWD; 8 PASSENGER!! 3.5L V6!! POWER SLIDING DOORS, SMART POWER LIFTGATE, HEATED SEATS/WHEEL, POWE",
@@ -5871,7 +6542,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV5 GT-LINE; FULLY ELECTRIC!! 81.4KWH BATTERY!! UP TO 457 KM FWD RANGE, AVAILABLE AWD, GT-LINE STYLE, PA",
@@ -5889,7 +6562,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "EV5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV5 LAND; FULLY ELECTRIC!! 81.4KWH BATTERY!! UP TO 457 KM RANGE, AVAILABLE AWD, PANORAMIC SUNROOF, SMART",
@@ -5907,7 +6582,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "EV5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV5 GT-LINE LIMITED; FULLY ELECTRIC!! 81.4KWH BATTERY!! UP TO 457 KM FWD / 439 KM AWD RANGE, GT-LINE STY",
@@ -5925,7 +6602,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "EV5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV5 GT-LINE LIMITED; FULLY ELECTRIC!! 81.4KWH BATTERY!! UP TO 457 KM FWD / 439 KM AWD RANGE, GT-LINE STY",
@@ -5943,7 +6622,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "EV5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV5 GT-LINE; FULLY ELECTRIC!! 81.4KWH BATTERY!! UP TO 457 KM FWD RANGE, AVAILABLE AWD, GT-LINE STYLE, PA",
@@ -5961,7 +6642,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "EV5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX FWD; ALL-NEW REDESIGN!! HEATED SEATS, 12.3 DISPLAY, WIRELESS APPLE CARPLAY, ANDROID AUTO, KIA CON",
@@ -5979,7 +6662,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX AWD; ALL-NEW REDESIGN!! AWD!! HEATED SEATS, 12.3 DISPLAY, WIRELESS APPLE CARPLAY, ANDROID AUTO, K",
@@ -5997,7 +6682,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX",
@@ -6015,7 +6702,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX AWD",
@@ -6033,7 +6722,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX FWD; ALL-NEW REDESIGN!! HEATED SEATS, 12.3 DISPLAY, WIRELESS APPLE CARPLAY, ANDROID AUTO, KIA CON",
@@ -6051,7 +6742,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX FWD; ALL-NEW REDESIGN!! HEATED SEATS, 12.3 DISPLAY, WIRELESS APPLE CARPLAY, ANDROID AUTO, KIA CON",
@@ -6069,7 +6762,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX AWD; ALL-NEW REDESIGN!! AWD!! HEATED SEATS, 12.3 DISPLAY, WIRELESS APPLE CARPLAY, ANDROID AUTO, K",
@@ -6087,7 +6782,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX FWD; ALL-NEW REDESIGN!! HEATED SEATS, 12.3 DISPLAY, WIRELESS APPLE CARPLAY, ANDROID AUTO, KIA CON",
@@ -6105,7 +6802,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX AWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, LED LIGHTS, APPLE CARPLAY, ANDROID AUTO, BACKUP CAME",
@@ -6123,7 +6822,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX AWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, LED LIGHTS, APPLE CARPLAY, ANDROID AUTO, BACKUP CAME",
@@ -6141,7 +6842,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX AWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, LED LIGHTS, APPLE CARPLAY, ANDROID AUTO, BACKUP CAME",
@@ -6159,7 +6862,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos X-LINE AWD; TURBOCHARGED!! X-LINE STYLE!! 19 ALLOYS, LED PROJECTION HEADLIGHTS, HEATED SEATS, 12.3 D",
@@ -6177,7 +6882,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX AWD; ALL-NEW REDESIGN!! AWD!! HEATED SEATS, 12.3 DISPLAY, WIRELESS APPLE CARPLAY, ANDROID AUTO, K",
@@ -6195,7 +6902,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EX AWD; ALL-NEW REDESIGN!! PANORAMIC SUNROOF, SOFINO LEATHER, HEATED SEATS/WHEEL, NAVIGATION, WIRELE",
@@ -6213,7 +6922,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EX AWD; ALL-NEW REDESIGN!! PANORAMIC SUNROOF, SOFINO LEATHER, HEATED SEATS/WHEEL, NAVIGATION, WIRELE",
@@ -6231,7 +6942,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX FWD; ALL-NEW REDESIGN!! HEATED SEATS, 12.3 DISPLAY, WIRELESS APPLE CARPLAY, ANDROID AUTO, KIA CON",
@@ -6249,7 +6962,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EX AWD; ALL-NEW REDESIGN!! PANORAMIC SUNROOF, SOFINO LEATHER, HEATED SEATS/WHEEL, NAVIGATION, WIRELE",
@@ -6267,7 +6982,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos X-Line Limited",
@@ -6285,7 +7002,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EX PREMIUM AWD; ALL-NEW REDESIGN!! PANORAMIC SUNROOF, SOFINO LEATHER, HEATED/COOLED SEATS, HEATED RE",
@@ -6303,7 +7022,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EX AWD; ALL-NEW REDESIGN!! PANORAMIC SUNROOF, SOFINO LEATHER, HEATED SEATS/WHEEL, NAVIGATION, WIRELE",
@@ -6321,7 +7042,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX; ALL-NEW REDESIGN!! AVAILABLE AWD!! HEATED SEATS, 12.3 DISPLAY, WIRELESS APPLE CARPLAY, ANDROID A",
@@ -6339,7 +7062,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX",
@@ -6357,7 +7082,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX FWD; ALL-NEW REDESIGN!! HEATED SEATS, 12.3 DISPLAY, WIRELESS APPLE CARPLAY, ANDROID AUTO, KIA CON",
@@ -6375,7 +7102,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EX AWD; ALL-NEW REDESIGN!! PANORAMIC SUNROOF, SOFINO LEATHER, HEATED SEATS/WHEEL, NAVIGATION, WIRELE",
@@ -6393,7 +7122,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX; ALL-NEW REDESIGN!! AVAILABLE AWD!! HEATED SEATS, 12.3 DISPLAY, WIRELESS APPLE CARPLAY, ANDROID A",
@@ -6411,7 +7142,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX FWD; ALL-NEW REDESIGN!! HEATED SEATS, 12.3 DISPLAY, WIRELESS APPLE CARPLAY, ANDROID AUTO, KIA CON",
@@ -6429,7 +7162,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX FWD; ALL-NEW REDESIGN!! HEATED SEATS, 12.3 DISPLAY, WIRELESS APPLE CARPLAY, ANDROID AUTO, KIA CON",
@@ -6447,7 +7182,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX FWD; ALL-NEW REDESIGN!! HEATED SEATS, 12.3 DISPLAY, WIRELESS APPLE CARPLAY, ANDROID AUTO, KIA CON",
@@ -6465,7 +7202,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX AWD; ALL-NEW REDESIGN!! AWD!! HEATED SEATS, 12.3 DISPLAY, WIRELESS APPLE CARPLAY, ANDROID AUTO, K",
@@ -6483,7 +7222,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SPORTAGE HYBRID SX",
@@ -6501,7 +7242,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX AWD; FULLY LOADED HYBRID!! PANORAMIC SUNROOF, HEAD-UP DISPLAY, HARMAN KARDON AUDIO, SURROUND VIEW",
@@ -6519,7 +7262,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX AWD; HYBRID!! 1.6L TURBO!! HEATED SEATS/WHEEL, NAVIGATION, WIRELESS CHARGER, APPLE CARPLAY, ANDRO",
@@ -6537,7 +7282,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SPORTAGE HYBRID SX",
@@ -6555,7 +7302,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SPORTAGE HYBRID EX PREMIUM",
@@ -6573,7 +7322,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX AWD; FULLY LOADED HYBRID!! PANORAMIC SUNROOF, HEAD-UP DISPLAY, HARMAN KARDON AUDIO, SURROUND VIEW",
@@ -6591,7 +7342,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX AWD; FULLY LOADED HYBRID!! PANORAMIC SUNROOF, HEAD-UP DISPLAY, HARMAN KARDON AUDIO, SURROUND VIEW",
@@ -6609,7 +7362,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SPORTAGE HYBRID SX",
@@ -6627,7 +7382,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SPORTAGE HYBRID SX",
@@ -6645,7 +7402,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX AWD; HYBRID!! 1.6L TURBO!! HEATED SEATS/WHEEL, NAVIGATION, WIRELESS CHARGER, APPLE CARPLAY, ANDRO",
@@ -6663,7 +7422,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX PREMIUM AWD; HYBRID!! PANORAMIC SUNROOF, HEATED/COOLED SEATS, HEATED REAR SEATS, HEATED WHEEL, SM",
@@ -6681,7 +7442,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SPORTAGE HYBRID SX RED INTERIOR",
@@ -6699,7 +7462,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX AWD; HYBRID!! 1.6L TURBO!! HEATED SEATS/WHEEL, NAVIGATION, WIRELESS CHARGER, APPLE CARPLAY, ANDRO",
@@ -6717,7 +7482,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX PREMIUM AWD; HYBRID!! PANORAMIC SUNROOF, HEATED/COOLED SEATS, HEATED REAR SEATS, HEATED WHEEL, SM",
@@ -6735,7 +7502,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX PREMIUM AWD; HYBRID!! PANORAMIC SUNROOF, HEATED/COOLED SEATS, HEATED REAR SEATS, HEATED WHEEL, SM",
@@ -6753,7 +7522,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX AWD; HYBRID!! 1.6L TURBO!! HEATED SEATS/WHEEL, NAVIGATION, WIRELESS CHARGER, APPLE CARPLAY, ANDRO",
@@ -6771,7 +7542,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX AWD; FULLY LOADED HYBRID!! PANORAMIC SUNROOF, HEAD-UP DISPLAY, HARMAN KARDON AUDIO, SURROUND VIEW",
@@ -6789,7 +7562,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX AWD; FULLY LOADED HYBRID!! PANORAMIC SUNROOF, HEAD-UP DISPLAY, HARMAN KARDON AUDIO, SURROUND VIEW",
@@ -6807,7 +7582,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX AWD; FULLY LOADED HYBRID!! PANORAMIC SUNROOF, HEAD-UP DISPLAY, HARMAN KARDON AUDIO, SURROUND VIEW",
@@ -6825,7 +7602,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX",
@@ -6843,7 +7622,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX PREMIUM AWD; HYBRID!! PANORAMIC SUNROOF, HEATED/COOLED SEATS, HEATED REAR SEATS, HEATED WHEEL, SM",
@@ -6861,7 +7642,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX AWD; FULLY LOADED HYBRID!! PANORAMIC SUNROOF, HEAD-UP DISPLAY, HARMAN KARDON AUDIO, SURROUND VIEW",
@@ -6879,7 +7662,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX AWD; FULLY LOADED HYBRID!! PANORAMIC SUNROOF, HEAD-UP DISPLAY, HARMAN KARDON AUDIO, SURROUND VIEW",
@@ -6897,7 +7682,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX AWD; FULLY LOADED HYBRID!! PANORAMIC SUNROOF, HEAD-UP DISPLAY, HARMAN KARDON AUDIO, SURROUND VIEW",
@@ -6915,7 +7702,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Plug-in Hybrid SX AWD; PLUG-IN HYBRID!! UP TO 55 KM EV RANGE!! PANORAMIC SUNROOF, HEAD-UP DISPLAY, HARMAN KARDON AU",
@@ -6933,7 +7722,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Plug-In Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Plug-in Hybrid EX AWD; PLUG-IN HYBRID!! 53 KM EV RANGE!! SYNTHETIC LEATHER, HEATED SEATS/WHEEL, 12.3 NAVIGATION, WI",
@@ -6951,7 +7742,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Plug-In Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
     }
   ]
 }
