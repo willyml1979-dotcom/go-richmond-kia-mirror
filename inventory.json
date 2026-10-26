@@ -1,7 +1,7 @@
 {
   "dealership": "Go Richmond Kia",
-  "generated_at": "2026-10-25T21:29:07",
-  "vehicle_count": 404,
+  "generated_at": "2026-10-26T05:49:13",
+  "vehicle_count": 403,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -73,7 +73,7 @@
       "make": "Subaru",
       "model": "XV Crosstrek Hybrid (CVT)",
       "condition": "used",
-      "price": 13995.0,
+      "price": 13895.0,
       "price_currency": "CAD"
     },
     {
@@ -126,7 +126,7 @@
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
-      "price": 14995.0,
+      "price": 14895.0,
       "price_currency": "CAD"
     },
     {
@@ -168,7 +168,7 @@
       "make": "Mercedes-Benz",
       "model": "C-Class",
       "condition": "used",
-      "price": 18995.0,
+      "price": 17995.0,
       "price_currency": "CAD"
     },
     {
@@ -188,7 +188,7 @@
       "make": "Mercedes-Benz",
       "model": "GLA",
       "condition": "used",
-      "price": 17195.0,
+      "price": 16995.0,
       "price_currency": "CAD"
     },
     {
@@ -199,7 +199,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 23695.0,
+      "price": 23495.0,
       "price_currency": "CAD"
     },
     {
@@ -263,7 +263,7 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "used",
-      "price": 19595.0,
+      "price": 19495.0,
       "price_currency": "CAD"
     },
     {
@@ -296,7 +296,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "used",
-      "price": 27595.0,
+      "price": 27495.0,
       "price_currency": "CAD"
     },
     {
@@ -329,7 +329,7 @@
       "make": "Kia",
       "model": "Forte Sedan EX Premium/ LOW MILEAGE/ NO ACCIDENTS/ ALLOYS / BACK UP CAMERA",
       "condition": "used",
-      "price": 20895.0,
+      "price": 20795.0,
       "price_currency": "CAD"
     },
     {
@@ -450,7 +450,7 @@
       "make": "Kia",
       "model": "Soul EV EV",
       "condition": "used",
-      "price": 21795.0,
+      "price": 21695.0,
       "price_currency": "CAD"
     },
     {
@@ -484,17 +484,6 @@
       "model": "Impreza",
       "condition": "used",
       "price": 24795.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Tesla Model 3 AWD LONG RANGE",
-      "vin": "5YJ3E1EB5NF263222",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/2a2c8d4bcdef.html",
-      "year": 2022,
-      "make": "Tesla",
-      "model": "Model 3",
-      "condition": "used",
-      "price": 31695.0,
       "price_currency": "CAD"
     },
     {
@@ -787,7 +776,7 @@
       "make": "Mitsubishi",
       "model": "Outlander PHEV PHEV",
       "condition": "used",
-      "price": 42695.0,
+      "price": 42595.0,
       "price_currency": "CAD"
     },
     {
@@ -928,7 +917,7 @@
       "make": "Honda",
       "model": "Civic Hybrid",
       "condition": "used",
-      "price": 36595.0,
+      "price": 36495.0,
       "price_currency": "CAD"
     },
     {
@@ -1058,7 +1047,7 @@
       "make": "Nissan",
       "model": "Sentra",
       "condition": "used",
-      "price": 22895.0,
+      "price": 22795.0,
       "price_currency": "CAD"
     },
     {
@@ -3533,7 +3522,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 29495.0,
+      "price": 29395.0,
       "price_currency": "CAD"
     },
     {
@@ -3544,7 +3533,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 62195.0,
+      "price": 61495.0,
       "price_currency": "CAD"
     },
     {
