@@ -1,7 +1,7 @@
 {
   "dealership": "Go Richmond Kia",
-  "generated_at": "2026-10-25T20:55:42",
-  "vehicle_count": 405,
+  "generated_at": "2026-10-25T21:29:07",
+  "vehicle_count": 404,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -2708,7 +2708,7 @@
       "make": "Kia",
       "model": "Sorento Hybrid",
       "condition": "new",
-      "price": 55995.0,
+      "price": 53995.0,
       "price_currency": "CAD"
     },
     {
@@ -3581,13 +3581,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Carnival Hybrid EX",
+      "name": "2027 Kia Carnival Hybrid EX FWD; HYBRID!! 8 PASSENGER, SYNTHETIC LEATHER, POWER SLIDING DOORS, SMART POWER LIFTGATE, HEATED S",
       "vin": "KNDNC5KA5V6223381",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/72ca5d756db6.html",
       "year": 2027,
       "make": "Kia",
       "model": "Carnival Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 55995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Kia Carnival Hybrid HYBRID SX+ FWD; FULLY LOADED HYBRID!! 7 PASSENGER, VIP LOUNGE SEATS, BOSE AUDIO, HEAD-UP DISPLAY, SU",
@@ -3763,17 +3765,6 @@
       "model": "EV4",
       "condition": "new",
       "price": 48530.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Kia EV5 GT-LINE LIMITED; FULLY ELECTRIC!! 81.4KWH BATTERY!! UP TO 457 KM FWD / 439 KM AWD RANGE, GT-LINE STY",
-      "vin": "KNDH54DA5V7054715",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/70d3da8124d7.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "EV5",
-      "condition": "new",
-      "price": 61995.0,
       "price_currency": "CAD"
     },
     {
