@@ -1,6 +1,6 @@
 # Go Richmond Kia
 
-Kia dealership in BC. AI-readable inventory mirror, about 413 vehicles.
+Kia dealership in BC. AI-readable inventory mirror, about 417 vehicles.
 
 - Official website: https://www.gorichmondkia.ca
 - Used vehicles: https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/

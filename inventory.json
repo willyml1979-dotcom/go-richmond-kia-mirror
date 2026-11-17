@@ -1,7 +1,7 @@
 {
   "dealership": "Go Richmond Kia",
-  "generated_at": "2026-11-17T03:10:54",
-  "vehicle_count": 413,
+  "generated_at": "2026-11-17T04:41:52",
+  "vehicle_count": 417,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1222,17 +1222,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia Carnival Hybrid SX+ FWD; 7 PASSENGER!! VIP LOUNGE SEATS, DUAL SUNROOF, BOSE AUDIO, HEAD-UP DISPLAY, DIGITAL KEY, SUR",
-      "vin": "KNDNE5KA3T6154990",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/248148d34f75.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Carnival Hybrid",
-      "condition": "new",
-      "price": 56425.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Kia Carnival LX+ FWD; POWER SLIDING DOORS!! SMART POWER LIFTGATE, HEATED SEATS/WHEEL, POWER DRIVER SEAT, 8 PASSEN",
       "vin": "KNDNB5K33T6637969",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/359acd110279.html",
@@ -1263,17 +1252,6 @@
       "model": "Carnival",
       "condition": "new",
       "price": 48380.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Carnival EX+ FWD; DIGITAL CLUSTER!! PASSENGER VIEW CAMERA, SYNTHETIC LEATHER, POWER SLIDING DOORS, SMART POWE",
-      "vin": "KNDNC5K30T6647016",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/78e2bb1bfc49.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Carnival",
-      "condition": "new",
-      "price": 53295.0,
       "price_currency": "CAD"
     },
     {
@@ -1354,39 +1332,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia EV4 GT-Line",
-      "vin": "KNAD54D32T6016830",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/c3678e9f0d64.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "EV4",
-      "condition": "new",
-      "price": 51005.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia EV9 LAND AWD; FULLY ELECTRIC!! 99.8KWH BATTERY!! DUAL MOTOR AWD, HEAT PUMP, HEATED/COOLED FRONT SEATS, H",
-      "vin": "KNDAFFS57T6087816",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/2b075c01da36.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "EV9",
-      "condition": "new",
-      "price": 67280.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia EV9 LAND AWD; FULLY ELECTRIC!! 99.8KWH BATTERY!! DUAL MOTOR AWD, HEAT PUMP, HEATED/COOLED FRONT SEATS, H",
-      "vin": "KNDAFFS59T6087817",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/bcba501a3bd2.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "EV9",
-      "condition": "new",
-      "price": 69995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Kia EV9 LAND PREMIUM AWD; FULLY ELECTRIC!! 99.8KWH BATTERY!! 6 PASSENGER, CAPTAIN CHAIRS, DUAL SUNROOF, MERI",
       "vin": "KNDADFS55T6087898",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/7787b72b27b4.html",
@@ -1442,28 +1387,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia K4 EX FWD; HEATED SEATS!! 17 ALLOYS!! WIRELESS CHARGER, SMART KEY, REMOTE START, BLIND SPOT, REAR CROSS",
-      "vin": "3KPFU4DEXTE272725",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/33de2004e7da.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "K4",
-      "condition": "new",
-      "price": 29288.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia K4 EX+ FWD; PREMIUM SUNROOF!! SYNTHETIC LEATHER!! HEATED SEATS, DUAL-ZONE CLIMATE, WIRELESS CHARGER, SM",
-      "vin": "3KPFU4DE0TE271924",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/81c6254552cd.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "K4",
-      "condition": "new",
-      "price": 30288.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Kia K4 GT-LINE TURBO LIMITED FWD; TURBO!! FULLY LOADED!! HARMAN KARDON, SURROUND VIEW, BLIND VIEW, VENTILAT",
       "vin": "3KPFW4DC8TE262090",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/5b522137fc52.html",
@@ -1471,7 +1394,7 @@
       "make": "Kia",
       "model": "K4",
       "condition": "new",
-      "price": 35288.0,
+      "price": 35188.0,
       "price_currency": "CAD"
     },
     {
@@ -1493,18 +1416,7 @@
       "make": "Kia",
       "model": "K4",
       "condition": "new",
-      "price": 32686.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia K4 GT-LINE TURBO LIMITED FWD; TURBO!! FULLY LOADED!! HARMAN KARDON, SURROUND VIEW, BLIND VIEW, VENTILAT",
-      "vin": "3KPFW4DCXTE344029",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/2afe2106297f.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "K4",
-      "condition": "new",
-      "price": 37280.0,
+      "price": 32188.0,
       "price_currency": "CAD"
     },
     {
@@ -1574,72 +1486,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia K4 LX FWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, REMOTE START, KIA CONNECT, APPLE CARPLAY, ANDROID AU",
-      "vin": "3KPFT4DE6TE417066",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/2773ad8685a5.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "K4",
-      "condition": "new",
-      "price": 26545.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
-      "vin": "KNDCR3L1XT5146714",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/7771d011327b.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Niro EV",
-      "condition": "new",
-      "price": 41288.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
-      "vin": "KNDCR3L18T5146694",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/dbc99296cc68.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Niro EV",
-      "condition": "new",
-      "price": 41288.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
-      "vin": "KNDCR3L1XT5146793",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/1c315f3ed8d4.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Niro EV",
-      "condition": "new",
-      "price": 41288.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
-      "vin": "KNDCR3L18T5147859",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/850d53e79681.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Niro EV",
-      "condition": "new",
-      "price": 41288.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
-      "vin": "KNDCR3L10T5148052",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/a3c78b7e5f82.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Niro EV",
-      "condition": "new",
-      "price": 41288.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
       "vin": "KNDCR3L12T5148442",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/5419bd8ec228.html",
@@ -1647,7 +1493,7 @@
       "make": "Kia",
       "model": "Niro EV",
       "condition": "new",
-      "price": 41288.0,
+      "price": 41188.0,
       "price_currency": "CAD"
     },
     {
@@ -1669,7 +1515,7 @@
       "make": "Kia",
       "model": "Niro EV",
       "condition": "new",
-      "price": 41288.0,
+      "price": 41188.0,
       "price_currency": "CAD"
     },
     {
@@ -1680,7 +1526,7 @@
       "make": "Kia",
       "model": "Niro EV",
       "condition": "new",
-      "price": 41288.0,
+      "price": 41188.0,
       "price_currency": "CAD"
     },
     {
@@ -1735,7 +1581,7 @@
       "make": "Kia",
       "model": "Niro EV",
       "condition": "new",
-      "price": 41888.0,
+      "price": 41188.0,
       "price_currency": "CAD"
     },
     {
@@ -1786,17 +1632,6 @@
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
       "vin": "KNDCR3L1XT5152285",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/4259889fca7f.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Niro EV",
-      "condition": "new",
-      "price": 41888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
-      "vin": "KNDCR3L16T5151649",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/4a299e1d3d65.html",
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
@@ -2021,7 +1856,7 @@
       "make": "Kia",
       "model": "Niro EV",
       "condition": "new",
-      "price": 41888.0,
+      "price": 41111.0,
       "price_currency": "CAD"
     },
     {
@@ -2043,7 +1878,7 @@
       "make": "Kia",
       "model": "Niro EV",
       "condition": "new",
-      "price": 43888.0,
+      "price": 41188.0,
       "price_currency": "CAD"
     },
     {
@@ -2186,7 +2021,7 @@
       "make": "Kia",
       "model": "Niro EV",
       "condition": "new",
-      "price": 39888.0,
+      "price": 37111.0,
       "price_currency": "CAD"
     },
     {
@@ -2219,7 +2054,7 @@
       "make": "Kia",
       "model": "Niro EV",
       "condition": "new",
-      "price": 41888.0,
+      "price": 41111.0,
       "price_currency": "CAD"
     },
     {
@@ -2351,7 +2186,7 @@
       "make": "Kia",
       "model": "Niro EV",
       "condition": "new",
-      "price": 41888.0,
+      "price": 41111.0,
       "price_currency": "CAD"
     },
     {
@@ -2362,18 +2197,7 @@
       "make": "Kia",
       "model": "Niro EV",
       "condition": "new",
-      "price": 41888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Niro EV WAVE FWD; FULLY LOADED!! SUNROOF!! VENTILATED SEATS, HEATED REAR SEATS, HARMAN KARDON AUDIO, HEAD-UP",
-      "vin": "KNDCT3L1XT5162848",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/8c26f2d673cc.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Niro EV",
-      "condition": "new",
-      "price": 45888.0,
+      "price": 41111.0,
       "price_currency": "CAD"
     },
     {
@@ -2388,31 +2212,20 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia Niro Hybrid HEV SX FWD; HYBRID!! FULLY LOADED!! HARMAN KARDON AUDIO, HEAD-UP DISPLAY, DIGITAL KEY, HEATED/COOLED",
+      "name": "2026 Kia Niro Hybrid SX",
       "vin": "KNDCT3LE9T5381206",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/f0e195bcb08d.html",
       "year": 2026,
       "make": "Kia",
-      "model": "Niro Hybrid HEV",
+      "model": "Niro Hybrid",
       "condition": "new",
-      "price": 41830.0,
+      "price": 41111.0,
       "price_currency": "CAD"
     },
     {
       "name": "2026 Kia Niro Hybrid LX FWD; HYBRID!! 4.4L/100KM COMBINED!! HEATED SEATS, DUAL-ZONE CLIMATE, APPLE CARPLAY, ANDROID AUTO,",
       "vin": "KNDCP3LEXT5383387",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/f5922ed03ef6.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Niro Hybrid",
-      "condition": "new",
-      "price": 33195.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Niro Hybrid LX FWD; HYBRID!! 4.4L/100KM COMBINED!! HEATED SEATS, DUAL-ZONE CLIMATE, APPLE CARPLAY, ANDROID AUTO,",
-      "vin": "KNDCP3LEXT5387651",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/02b618715bd1.html",
       "year": 2026,
       "make": "Kia",
       "model": "Niro Hybrid",
@@ -2560,7 +2373,7 @@
       "make": "Kia",
       "model": "Seltos",
       "condition": "new",
-      "price": 30980.0,
+      "price": 29111.0,
       "price_currency": "CAD"
     },
     {
@@ -2615,7 +2428,7 @@
       "make": "Kia",
       "model": "Sorento Hybrid",
       "condition": "new",
-      "price": 48530.0,
+      "price": 48111.0,
       "price_currency": "CAD"
     },
     {
@@ -2653,17 +2466,6 @@
     },
     {
       "name": "2026 Kia Sorento Hybrid SX AWD; FULLY LOADED HYBRID!! PANORAMIC SUNROOF, LEATHER, HEATED/COOLED SEATS, HEATED REAR SEATS, BO",
-      "vin": "KNDRHDJG0T5552382",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/4317fc600105.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Sorento Hybrid",
-      "condition": "new",
-      "price": 56995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Sorento Hybrid SX AWD; FULLY LOADED HYBRID!! PANORAMIC SUNROOF, LEATHER, HEATED/COOLED SEATS, HEATED REAR SEATS, BO",
       "vin": "KNDRHDJG7T5552380",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/239d23efcb68.html",
       "year": 2026,
@@ -2682,17 +2484,6 @@
       "model": "Sorento Hybrid",
       "condition": "new",
       "price": 57995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Sorento Hybrid SX AWD; FULLY LOADED HYBRID!! 6 PASSENGER, PANORAMIC SUNROOF, LEATHER, HEATED/COOLED SEATS, HEATED R",
-      "vin": "KNDRHDJG0T5493351",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/41d6687d6045.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Sorento Hybrid",
-      "condition": "new",
-      "price": 55995.0,
       "price_currency": "CAD"
     },
     {
@@ -2737,28 +2528,6 @@
       "model": "Sorento Hybrid",
       "condition": "new",
       "price": 53995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Sorento Plug-In Hybrid LX AWD; PLUG-IN HYBRID!! 55 KM EV RANGE!! 6 PASSENGER, HEATED SEATS, 12.3 DISPLAY, APPLE CARPLAY, AN",
-      "vin": "KNDRKDJH5T5455480",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/31748dd1fe9e.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Sorento Plug-In Hybrid",
-      "condition": "new",
-      "price": 50288.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Sorento Plug-In Hybrid LX AWD; PLUG-IN HYBRID!! 55 KM EV RANGE!! 6 PASSENGER, HEATED SEATS, 12.3 DISPLAY, APPLE CARPLAY, AN",
-      "vin": "KNDRKDJH4T5454675",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/8321dae0f693.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Sorento Plug-In Hybrid",
-      "condition": "new",
-      "price": 50288.0,
       "price_currency": "CAD"
     },
     {
@@ -2908,17 +2677,6 @@
       "name": "2026 Kia Sportage EX PREMIUM AWD; PANORAMIC SUNROOF!! VENTILATED SEATS!! HEATED REAR SEATS, SMART POWER LIFTGATE, MEMO",
       "vin": "KNDPVCDF8T7473088",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/e8897b604ab4.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "new",
-      "price": 42288.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Sportage EX PREMIUM AWD; PANORAMIC SUNROOF!! VENTILATED SEATS!! HEATED REAR SEATS, SMART POWER LIFTGATE, MEMO",
-      "vin": "KNDPVCDF6T7475700",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/7040589a733d.html",
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
@@ -3411,17 +3169,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia Sportage EX PREMIUM AWD; PANORAMIC SUNROOF!! VENTILATED SEATS!! HEATED REAR SEATS, SMART POWER LIFTGATE, MEMO",
-      "vin": "KNDPVCDF2T7534080",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/5f52cd6ab1a7.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "new",
-      "price": 42795.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Kia Sportage LX",
       "vin": "KNDPUCDF8T7529372",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/9f1001125dd6.html",
@@ -3673,17 +3420,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Carnival Hybrid HYBRID LX+ FWD; HYBRID!! 8 PASSENGER, POWER SLIDING DOORS, SMART POWER LIFTGATE, HEATED SEATS/WHEEL,",
-      "vin": "KNDNB5KA8V6208831",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/49c426bb7b94.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Carnival Hybrid Hybrid",
-      "condition": "new",
-      "price": 51995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Kia Carnival Hybrid EX FWD; HYBRID!! 8 PASSENGER, SYNTHETIC LEATHER, POWER SLIDING DOORS, SMART POWER LIFTGATE, HEATED S",
       "vin": "KNDNC5KA5V6223381",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/72ca5d756db6.html",
@@ -3703,6 +3439,28 @@
       "model": "Carnival Hybrid Hybrid",
       "condition": "new",
       "price": 61995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Carnival Hybrid SX FWD; HYBRID!! 8 PASSENGER, DUAL SUNROOF, BOSE AUDIO, HEAD-UP DISPLAY, LEATHER, HEATED/VENTILATED ",
+      "vin": "KNDNE5KA3V6231537",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/dfc2e27b4120.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Carnival Hybrid",
+      "condition": "new",
+      "price": 61811.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Carnival Hybrid SX+ FWD; FULLY LOADED HYBRID!! 7 PASSENGER, VIP LOUNGE SEATS, BOSE AUDIO, HEAD-UP DISPLAY, SURROUND ",
+      "vin": "KNDNE5KA1V6230600",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/ea5782ff6959.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Carnival Hybrid",
+      "condition": "new",
+      "price": 61111.0,
       "price_currency": "CAD"
     },
     {
@@ -3816,25 +3574,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia EV3 Land",
-      "vin": "3KMDCDDC3VE005807",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/14332eb99dc8.html",
+      "name": "2027 Kia Carnival SX",
+      "vin": "KNDNE5K33V6658864",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/432301a9ae02.html",
       "year": 2027,
       "make": "Kia",
-      "model": "EV3 Land",
+      "model": "Carnival",
       "condition": "new",
-      "price": 48430.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Kia EV3 Land",
-      "vin": "3KMDCDDC4VE006450",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/ac52904ac643.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "EV3 Land",
-      "condition": "new",
-      "price": 48430.0,
+      "price": 56588.0,
       "price_currency": "CAD"
     },
     {
@@ -3861,13 +3608,13 @@
     },
     {
       "name": "2027 Kia EV4 Wind Premium",
-      "vin": "KNAD34D37V6023555",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/5cd963692f95.html",
+      "vin": "KNAD34D37V6026228",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/6b926b8f3169.html",
       "year": 2027,
       "make": "Kia",
       "model": "EV4",
       "condition": "new",
-      "price": 48530.0,
+      "price": 48211.0,
       "price_currency": "CAD"
     },
     {
@@ -3882,58 +3629,80 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia EV5 GT-LINE; FULLY ELECTRIC!! 81.4KWH BATTERY!! UP TO 457 KM FWD RANGE, AVAILABLE AWD, GT-LINE STYLE, PA",
-      "vin": "KNDH54DA8V7054210",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/90549dbfa2e5.html",
+      "name": "2027 Kia EV5 Wind",
+      "vin": "KNDH3DDE4V7064662",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/60206b2b542e.html",
       "year": 2027,
       "make": "Kia",
       "model": "EV5",
       "condition": "new",
-      "price": 58995.0,
+      "price": 52911.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia EV5 GT-LINE FWD; FULLY ELECTRIC!! 81.4KWH BATTERY!! 457 KM RANGE, GT-LINE STYLE, PANORAMIC SUNROOF, HEAT",
-      "vin": "KNDH54DA0V7059028",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/d77d8bb50e27.html",
+      "name": "2027 Kia EV5 Wind",
+      "vin": "KNDH34DA3V7065198",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/80bfbb49d21e.html",
       "year": 2027,
       "make": "Kia",
       "model": "EV5",
       "condition": "new",
-      "price": 57930.0,
+      "price": 49911.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia EV5 WIND FWD; FULLY ELECTRIC!! UP TO 457 KM ESTIMATED RANGE!! HEAT PUMP, HEATED SEATS, POWER DRIVER SEAT",
-      "vin": "KNDH34DA9V7056358",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/914a86bce95f.html",
+      "name": "2027 Kia EV5 Wind",
+      "vin": "KNDH34DA9V7064959",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/c8fad0fd8e50.html",
       "year": 2027,
       "make": "Kia",
       "model": "EV5",
       "condition": "new",
-      "price": 49930.0,
+      "price": 49711.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia EV5 WIND FWD; FULLY ELECTRIC!! UP TO 457 KM ESTIMATED RANGE!! HEAT PUMP, HEATED SEATS, POWER DRIVER SEAT",
-      "vin": "KNDH34DA1V7059688",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/20489f6e4132.html",
+      "name": "2027 Kia EV5 Wind",
+      "vin": "KNDH34DA7V7065186",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/a02ce1063fcf.html",
       "year": 2027,
       "make": "Kia",
       "model": "EV5",
       "condition": "new",
-      "price": 50888.0,
+      "price": 49711.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia EV5 Land",
-      "vin": "KNDH4DDE6V7055409",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/aee21a513e24.html",
+      "name": "2027 Kia EV9 Land",
+      "vin": "KNDAFFS51V6089256",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/38cf36c7e02e.html",
       "year": 2027,
       "make": "Kia",
-      "model": "EV5 Land",
+      "model": "EV9 Land",
       "condition": "new",
-      "price": 54930.0,
+      "price": 67111.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia K4 LX",
+      "vin": "3KPFT4DE6VE421444",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/2fefe32ac4fc.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "K4",
+      "condition": "new",
+      "price": 26711.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia K4 LX",
+      "vin": "3KPFT4DE3VE421689",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/14b1ecc9f628.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "K4",
+      "condition": "new",
+      "price": 26711.0,
       "price_currency": "CAD"
     },
     {
@@ -4017,17 +3786,6 @@
       "name": "2027 Kia Seltos LX AWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, LED LIGHTS, APPLE CARPLAY, ANDROID AUTO, BACKUP CAME",
       "vin": "KNDEBCD36V5017627",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/45b83de7dbba.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "new",
-      "price": 32980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Kia Seltos LX AWD; HEATED SEATS!! 12.3 DISPLAY, SMART KEY, LED LIGHTS, APPLE CARPLAY, ANDROID AUTO, BACKUP CAME",
-      "vin": "KNDEBCD3XV5017968",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/3c68fd959368.html",
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
@@ -4157,17 +3915,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Seltos EX AWD; ALL-NEW REDESIGN!! PANORAMIC SUNROOF, SOFINO LEATHER, HEATED SEATS/WHEEL, NAVIGATION, WIRELE",
-      "vin": "KNDECCD39V5032037",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/5c04151472dc.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "new",
-      "price": 35880.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Kia Seltos LX; ALL-NEW REDESIGN!! AVAILABLE AWD!! HEATED SEATS, 12.3 DISPLAY, WIRELESS APPLE CARPLAY, ANDROID A",
       "vin": "KNDEB3D38V5029262",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/59a45d314b7c.html",
@@ -4193,17 +3940,6 @@
       "name": "2027 Kia Seltos LX FWD; ALL-NEW REDESIGN!! HEATED SEATS, 12.3 DISPLAY, WIRELESS APPLE CARPLAY, ANDROID AUTO, KIA CON",
       "vin": "KNDEB3D31V5029345",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/216e4a94124d.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "new",
-      "price": 30980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Kia Seltos LX FWD; ALL-NEW REDESIGN!! HEATED SEATS, 12.3 DISPLAY, WIRELESS APPLE CARPLAY, ANDROID AUTO, KIA CON",
-      "vin": "KNDEB3D35V5029803",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/311ed1ecc07f.html",
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
@@ -4256,17 +3992,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Seltos EX AWD; ALL-NEW REDESIGN!! PANORAMIC SUNROOF, SOFINO LEATHER, HEATED SEATS/WHEEL, NAVIGATION, WIRELE",
-      "vin": "KNDECCD38V7072582",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/369b0fd02f15.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "new",
-      "price": 35880.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Kia Seltos LX FWD; ALL-NEW REDESIGN!! HEATED SEATS, 12.3 DISPLAY, WIRELESS APPLE CARPLAY, ANDROID AUTO, KIA CON",
       "vin": "KNDEB3D35V7025643",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/39b1436c9f67.html",
@@ -4275,6 +4000,61 @@
       "model": "Seltos",
       "condition": "new",
       "price": 31818.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Seltos EX AWD; ALL-NEW REDESIGN!! PANORAMIC SUNROOF, SOFINO LEATHER, HEATED SEATS/WHEEL, NAVIGATION, WIRELE",
+      "vin": "KNDECCD36V7075948",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/633f78cfc0a2.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 35711.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Seltos LX AWD; ALL-NEW REDESIGN!! AWD!! HEATED SEATS, 12.3 DISPLAY, WIRELESS APPLE CARPLAY, ANDROID AUTO, K",
+      "vin": "KNDEBCD33V5027211",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/e6baf55081da.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 32811.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Seltos LX FWD; ALL-NEW REDESIGN!! HEATED SEATS, 12.3 DISPLAY, WIRELESS APPLE CARPLAY, ANDROID AUTO, KIA CON",
+      "vin": "KNDEB3D33V7073951",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/0061fecb7eec.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 30988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Seltos LX AWD; ALL-NEW REDESIGN!! AWD!! HEATED SEATS, 12.3 DISPLAY, WIRELESS APPLE CARPLAY, ANDROID AUTO, K",
+      "vin": "KNDEBCD31V7073253",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/57fe9f42f0d4.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 33811.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Seltos EX",
+      "vin": "KNDECCD38V5051212",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/fb1470daf840.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 35911.0,
       "price_currency": "CAD"
     },
     {
@@ -4444,17 +4224,6 @@
     },
     {
       "name": "2027 Kia Sportage Hybrid SX AWD; FULLY LOADED HYBRID!! PANORAMIC SUNROOF, HEAD-UP DISPLAY, HARMAN KARDON AUDIO, SURROUND VIEW",
-      "vin": "KNDPXDDG5V7448984",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/34da52f19e8c.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Sportage Hybrid",
-      "condition": "new",
-      "price": 50680.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Kia Sportage Hybrid SX AWD; FULLY LOADED HYBRID!! PANORAMIC SUNROOF, HEAD-UP DISPLAY, HARMAN KARDON AUDIO, SURROUND VIEW",
       "vin": "KNDPXDDG5V7447575",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/edc04ae02e25.html",
       "year": 2027,
@@ -4499,17 +4268,6 @@
     },
     {
       "name": "2027 Kia Sportage Hybrid SX AWD; FULLY LOADED HYBRID!! PANORAMIC SUNROOF, HEAD-UP DISPLAY, HARMAN KARDON AUDIO, SURROUND VIEW",
-      "vin": "KNDPXDDG9V7447739",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/5c8eb4e37a99.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Sportage Hybrid",
-      "condition": "new",
-      "price": 50680.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Kia Sportage Hybrid SX AWD; FULLY LOADED HYBRID!! PANORAMIC SUNROOF, HEAD-UP DISPLAY, HARMAN KARDON AUDIO, SURROUND VIEW",
       "vin": "KNDPXDDG2V7439336",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/768eb65df12b.html",
       "year": 2027,
@@ -4528,6 +4286,292 @@
       "model": "Sportage Hybrid",
       "condition": "new",
       "price": 50680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid EX PREMIUM AWD; HYBRID!! PANORAMIC SUNROOF, HEATED/COOLED SEATS, HEATED REAR SEATS, HEATED WHEEL, SM",
+      "vin": "KNDPVDDG1V7462158",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/6a74cff9a299.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 46111.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX AWD; FULLY LOADED HYBRID!! PANORAMIC SUNROOF, HEAD-UP DISPLAY, HARMAN KARDON AUDIO, SURROUND VIEW",
+      "vin": "KNDPXDDG0V7462534",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/293cdf5c88fb.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 49811.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX AWD; FULLY LOADED HYBRID!! PANORAMIC SUNROOF, HEAD-UP DISPLAY, HARMAN KARDON AUDIO, SURROUND VIEW",
+      "vin": "KNDPXDDG8V7462183",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/7d02aa808b58.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 49988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid EX AWD; HYBRID!! 1.6L TURBO!! HEATED SEATS/WHEEL, NAVIGATION, WIRELESS CHARGER, APPLE CARPLAY, ANDRO",
+      "vin": "KNDPVDDG3V7469757",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/018a38b29b2f.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 43911.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid EX PREMIUM AWD; HYBRID!! PANORAMIC SUNROOF, HEATED/COOLED SEATS, HEATED REAR SEATS, HEATED WHEEL, SM",
+      "vin": "KNDPVDDG9V7463199",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/826d43f97ba7.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 46811.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX AWD; FULLY LOADED HYBRID!! PANORAMIC SUNROOF, HEAD-UP DISPLAY, HARMAN KARDON AUDIO, SURROUND VIEW",
+      "vin": "KNDPXDDG6V7462294",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/e4c6a3c2f065.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 49911.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid EX PREMIUM AWD; HYBRID!! PANORAMIC SUNROOF, HEATED/COOLED SEATS, HEATED REAR SEATS, HEATED WHEEL, SM",
+      "vin": "KNDPVDDG8V7463047",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/7938e72dafda.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 46811.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX",
+      "vin": "KNDPXDDG1V7462400",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/1956433a186f.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 50611.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX",
+      "vin": "KNDPXDDG9V7465755",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/d3cc47cae536.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 50611.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid EX Premium",
+      "vin": "KNDPVDDG7V7463072",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/9910c5a43b41.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 47111.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX",
+      "vin": "KNDPXDDG7V7469304",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/9faed19ccb87.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 50611.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX",
+      "vin": "KNDPXDDG6V7462182",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/3a6cd35cbb6c.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 50611.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid EX Premium",
+      "vin": "KNDPVDDG8V7476798",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/0278717500a3.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 46911.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX",
+      "vin": "KNDPXDDG8V7462409",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/fff7752d026a.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 50411.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid EX Premium",
+      "vin": "KNDPVDDG3V7463635",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/0ff3459e7a12.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 47111.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid EX Premium",
+      "vin": "KNDPVDDG0V7476746",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/a04dd75de2d2.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 47111.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid EX Premium",
+      "vin": "KNDPVDDG0V7463186",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/e1e8cb816591.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 47111.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX",
+      "vin": "KNDPXDDG7V7462269",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/2ae1ccda1c22.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 50611.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX",
+      "vin": "KNDPXDDG5V7465753",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/76009f474d17.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 50611.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Plug-in Hybrid SX",
+      "vin": "KNDPXDDH0V7463546",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/49220a7891a5.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Plug-In Hybrid",
+      "condition": "new",
+      "price": 55611.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage LX",
+      "vin": "KNDPU3DF2V7556618",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/c9da30583909.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 35011.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage X-Line",
+      "vin": "KNDPUCDF0V7551336",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/9c09fdd7bd67.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 40611.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage X-Line",
+      "vin": "KNDPUCDF2V7550446",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/a6128607df17.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 40811.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage EX Premium",
+      "vin": "KNDPVCDF7V7555137",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/b293d7ec4ce4.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 44911.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage EX",
+      "vin": "KNDPVCDFXV7549946",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/40df6d6ab600.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 42911.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage EX",
+      "vin": "KNDPVCDF9V7549615",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/f8b7ee2a8f69.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 42911.0,
       "price_currency": "CAD"
     }
   ]
