@@ -1,6 +1,6 @@
 {
   "dealership": "Go Richmond Kia",
-  "generated_at": "2026-11-18T08:09:04",
+  "generated_at": "2026-11-18T16:06:22",
   "vehicle_count": 418,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -64,7 +64,7 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 17995.0,
+      "price": 17511.0,
       "price_currency": "CAD"
     },
     {
@@ -130,7 +130,7 @@
       "make": "Kia",
       "model": "Sedona SXL+ FULLY LOADED",
       "condition": "used",
-      "price": 21695.0,
+      "price": 20911.0,
       "price_currency": "CAD"
     },
     {
@@ -141,7 +141,7 @@
       "make": "Kia",
       "model": "Sorento",
       "condition": "used",
-      "price": 17995.0,
+      "price": 17411.0,
       "price_currency": "CAD"
     },
     {
@@ -449,7 +449,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 20395.0,
+      "price": 20211.0,
       "price_currency": "CAD"
     },
     {
@@ -526,7 +526,7 @@
       "make": "Kia",
       "model": "Soul EV EV Premium/ ALLOYS/ AC/ BLUETOOTH/ BACK UP CAMERA",
       "condition": "used",
-      "price": 24395.0,
+      "price": 23895.0,
       "price_currency": "CAD"
     },
     {
@@ -641,14 +641,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Toyota Corolla Hybrid Hybrid SE",
+      "name": "2023 Toyota Corolla Hybrid AWD/ HYBRID SE / NO ACCIDENTS/ LEASE RETURN/ LOCAL VEHICLE",
       "vin": "JTDBDMHE8P3005301",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/8f29240ebd7e.html",
       "year": 2023,
       "make": "Toyota",
-      "model": "Corolla Hybrid Hybrid",
+      "model": "Corolla Hybrid",
       "condition": "used",
-      "price": 31695.0,
+      "price": 30911.0,
       "price_currency": "CAD"
     },
     {
@@ -674,14 +674,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Honda Civic Sedan Touring",
+      "name": "2024 Honda Civic Sedan Touring/ LEATHER/ NAVIGATION / SUNROOF/ REMOTE STARTER",
       "vin": "2HGFE1F99RH002086",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/1696ee616217.html",
       "year": 2024,
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 30995.0,
+      "price": 29911.0,
       "price_currency": "CAD"
     },
     {
@@ -747,7 +747,7 @@
       "make": "Kia",
       "model": "Telluride",
       "condition": "used",
-      "price": 50929.0,
+      "price": 49911.0,
       "price_currency": "CAD"
     },
     {
@@ -791,7 +791,7 @@
       "make": "Mitsubishi",
       "model": "RVR",
       "condition": "used",
-      "price": 21595.0,
+      "price": 20911.0,
       "price_currency": "CAD"
     },
     {
@@ -802,7 +802,7 @@
       "make": "Mitsubishi",
       "model": "RVR",
       "condition": "used",
-      "price": 21595.0,
+      "price": 20911.0,
       "price_currency": "CAD"
     },
     {
@@ -868,7 +868,7 @@
       "make": "Chevrolet",
       "model": "Malibu",
       "condition": "used",
-      "price": 22795.0,
+      "price": 22211.0,
       "price_currency": "CAD"
     },
     {
@@ -1066,7 +1066,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 24995.0,
+      "price": 23911.0,
       "price_currency": "CAD"
     },
     {
@@ -1185,7 +1185,7 @@
       "make": "Dodge",
       "model": "Durango",
       "condition": "used",
-      "price": 52995.0,
+      "price": 51311.0,
       "price_currency": "CAD"
     },
     {
@@ -1196,7 +1196,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "used",
-      "price": 37495.0,
+      "price": 36511.0,
       "price_currency": "CAD"
     },
     {
@@ -3317,7 +3317,7 @@
       "make": "Mercedes-Benz",
       "model": "GLA",
       "condition": "used",
-      "price": 38995.0,
+      "price": 37511.0,
       "price_currency": "CAD"
     },
     {
