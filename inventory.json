@@ -1,19 +1,10 @@
 {
   "dealership": "Go Richmond Kia",
-  "generated_at": "2026-11-17T04:41:52",
-  "vehicle_count": 417,
+  "generated_at": "2026-11-17T21:59:04",
+  "vehicle_count": 419,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
-    {
-      "name": "2003 Mazda Tribute WHOLESALE UNIT- NOT FOR RETAIL SALE",
-      "vin": "4F2YZ02143KM31366",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/86ef50f21ddb.html",
-      "year": 2003,
-      "make": "Mazda",
-      "model": "Tribute WHOLESALE UNIT- NOT FOR RETAIL SALE",
-      "condition": "used"
-    },
     {
       "name": "2006 Jeep Liberty WHOLESALE UNIT- NOT FOR RETAIL SALE",
       "vin": "1J4GL58K06W170237",
@@ -30,15 +21,6 @@
       "year": 2012,
       "make": "Fiat",
       "model": "500 Sport",
-      "condition": "used"
-    },
-    {
-      "name": "2012 Mazda Mazda3 Sedan WHOLESALE UNIT- NOT FOR RETAIL SALE",
-      "vin": "JM1BL1V7XC1589570",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/bc78fe3c187b.html",
-      "year": 2012,
-      "make": "Mazda",
-      "model": "Mazda3",
       "condition": "used"
     },
     {
@@ -139,26 +121,6 @@
       "condition": "used",
       "price": 13911.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Mercedes-Benz GLA GLA 250 4MATIC - LOW KILOMETERS",
-      "vin": "WDCTG4GB6JJ518126",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/5cff2d580137.html",
-      "year": 2018,
-      "make": "Mercedes-Benz",
-      "model": "GLA",
-      "condition": "used",
-      "price": 16995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Hyundai IONIQ Electric WHOLESALE UNIT- NOT FOR RETAIL SALE",
-      "vin": "KMHC85LH3KU047244",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/795c29e6d413.html",
-      "year": 2019,
-      "make": "Hyundai",
-      "model": "IONIQ Electric",
-      "condition": "used"
     },
     {
       "name": "2019 Kia Sedona SXL+ FULLY LOADED",
@@ -421,7 +383,7 @@
       "make": "Kia",
       "model": "Soul EV EV",
       "condition": "used",
-      "price": 24995.0,
+      "price": 24511.0,
       "price_currency": "CAD"
     },
     {
@@ -455,6 +417,17 @@
       "model": "Impreza",
       "condition": "used",
       "price": 24795.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Tesla Model 3 Standard Range",
+      "vin": "5YJ3E1EAXNF355160",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/3d93964cac0c.html",
+      "year": 2022,
+      "make": "Tesla",
+      "model": "Model 3",
+      "condition": "used",
+      "price": 37911.0,
       "price_currency": "CAD"
     },
     {
@@ -546,17 +519,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Kia Soul EV EV PREMIUM/ LEASE RETURN/ ONE OWNER/ NO ACCIDENTS",
-      "vin": "KNDJ23A25P7029690",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/060c21c01b72.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Soul EV EV PREMIUM/ LEASE RETURN/ ONE OWNER/ NO ACCIDENTS",
-      "condition": "used",
-      "price": 24511.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Kia Soul EV EV Premium/ ALLOYS/ AC/ BLUETOOTH/ BACK UP CAMERA",
       "vin": "KNDJ23A23P7031552",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/6066edb536cb.html",
@@ -586,7 +548,7 @@
       "make": "Kia",
       "model": "Soul EV EV",
       "condition": "used",
-      "price": 26895.0,
+      "price": 26195.0,
       "price_currency": "CAD"
     },
     {
@@ -612,15 +574,49 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Kia Sportage EX / ONE OWNER/ NO ACCIDENTS/ LEATHER",
-      "vin": "KNDPVCAF0P7174771",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/2f7505ed4433.html",
+      "name": "2023 Kia Soul EV EV Premium",
+      "vin": "KNDJ23A27P7029349",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/d2b747cfd6cd.html",
       "year": 2023,
       "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 27695.0,
-      "price_currency": "CAD"
+      "model": "Soul EV EV",
+      "condition": "used"
+    },
+    {
+      "name": "2023 Kia Soul EV EV Limited",
+      "vin": "KNDJ33A19P7031351",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/6807acde18cf.html",
+      "year": 2023,
+      "make": "Kia",
+      "model": "Soul EV EV",
+      "condition": "used"
+    },
+    {
+      "name": "2023 Kia Soul EV EV Limited",
+      "vin": "KNDJ33A16P7029394",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/2ae99bea3e87.html",
+      "year": 2023,
+      "make": "Kia",
+      "model": "Soul EV EV",
+      "condition": "used"
+    },
+    {
+      "name": "2023 Kia Soul EV EV Limited",
+      "vin": "KNDJ33A13P7029403",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/0b7cd86ae822.html",
+      "year": 2023,
+      "make": "Kia",
+      "model": "Soul EV EV",
+      "condition": "used"
+    },
+    {
+      "name": "2023 Kia Soul EV EV Limited",
+      "vin": "KNDJ33A10P7031013",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/ad6d049d2ba3.html",
+      "year": 2023,
+      "make": "Kia",
+      "model": "Soul EV EV",
+      "condition": "used"
     },
     {
       "name": "2023 Kia Telluride X-Line ONE OWNER/ NO ACCIDENTS/ LEASE RETURNB/ 360 CAMERA / 2 SUNROOFS",
@@ -727,7 +723,7 @@
       "make": "Kia",
       "model": "Sorento",
       "condition": "used",
-      "price": 44995.0,
+      "price": 43895.0,
       "price_currency": "CAD"
     },
     {
@@ -780,7 +776,7 @@
       "make": "Mitsubishi",
       "model": "Outlander",
       "condition": "used",
-      "price": 35295.0,
+      "price": 33911.0,
       "price_currency": "CAD"
     },
     {
@@ -813,7 +809,7 @@
       "make": "Nissan",
       "model": "Rogue PLATINUM/ LEASE RETURN/ LOCAL VEHICLE/ NO ACCIDENTS",
       "condition": "used",
-      "price": 32695.0,
+      "price": 31111.0,
       "price_currency": "CAD"
     },
     {
@@ -824,7 +820,7 @@
       "make": "Toyota",
       "model": "Corolla Hybrid Hybrid",
       "condition": "used",
-      "price": 34295.0,
+      "price": 32511.0,
       "price_currency": "CAD"
     },
     {
@@ -857,7 +853,7 @@
       "make": "BMW",
       "model": "X2",
       "condition": "used",
-      "price": 37595.0,
+      "price": 36511.0,
       "price_currency": "CAD"
     },
     {
@@ -890,7 +886,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 43795.0,
+      "price": 43111.0,
       "price_currency": "CAD"
     },
     {
@@ -912,7 +908,7 @@
       "make": "Hyundai",
       "model": "Palisade",
       "condition": "used",
-      "price": 39495.0,
+      "price": 38595.0,
       "price_currency": "CAD"
     },
     {
@@ -923,7 +919,7 @@
       "make": "Hyundai",
       "model": "Venue",
       "condition": "used",
-      "price": 20795.0,
+      "price": 20211.0,
       "price_currency": "CAD"
     },
     {
@@ -980,6 +976,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Kia Niro Hybrid SX",
+      "vin": "KNDCT3LE8S5231442",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/35f2a8165b05.html",
+      "year": 2025,
+      "make": "Kia",
+      "model": "Niro Hybrid",
+      "condition": "used",
+      "price": 37288.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Kia Seltos EX",
       "vin": "KNDEUCAAXS7791733",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/1f4b0704f328.html",
@@ -1009,7 +1016,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "used",
-      "price": 29295.0,
+      "price": 28695.0,
       "price_currency": "CAD"
     },
     {
@@ -1057,14 +1064,23 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Subaru Outback Premier XT",
+      "name": "2025 RAM ProMaster Cargo Van Tradesman",
+      "vin": "3C6LRVAG0SE520163",
+      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/289fbd15ec63.html",
+      "year": 2025,
+      "make": "RAM",
+      "model": "ProMaster",
+      "condition": "used"
+    },
+    {
+      "name": "2025 Subaru Outback Premier XT / low mileage/ fully loaded/ NO ACCIDENTS",
       "vin": "4S4BTHPD0S3245790",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/4469d63125ef.html",
       "year": 2025,
       "make": "Subaru",
       "model": "Outback",
       "condition": "used",
-      "price": 45395.0,
+      "price": 44211.0,
       "price_currency": "CAD"
     },
     {
@@ -1097,7 +1113,7 @@
       "make": "Toyota",
       "model": "Grand Highlander",
       "condition": "used",
-      "price": 57995.0,
+      "price": 55811.0,
       "price_currency": "CAD"
     },
     {
@@ -1108,7 +1124,7 @@
       "make": "Toyota",
       "model": "Grand Highlander",
       "condition": "used",
-      "price": 56795.0,
+      "price": 55911.0,
       "price_currency": "CAD"
     },
     {
@@ -1119,7 +1135,7 @@
       "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 34795.0,
+      "price": 33511.0,
       "price_currency": "CAD"
     },
     {
