@@ -1,7 +1,7 @@
 {
   "dealership": "Go Richmond Kia",
-  "generated_at": "2026-11-17T21:59:04",
-  "vehicle_count": 419,
+  "generated_at": "2026-11-17T22:36:56",
+  "vehicle_count": 418,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1525,17 +1525,6 @@
     },
     {
       "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
-      "vin": "KNDCR3L1XT5148527",
-      "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/9c94c913b576.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Niro EV",
-      "condition": "new",
-      "price": 41188.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Niro EV WIND+ FWD; FULLY ELECTRIC!! HEAT PUMP!! SMART POWER LIFTGATE, WIRELESS CHARGER, POWER DRIVER SEAT, N",
       "vin": "KNDCR3L1XT5149418",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/new/85a8348ec639.html",
       "year": 2026,
@@ -1564,7 +1553,7 @@
       "make": "Kia",
       "model": "Niro EV",
       "condition": "new",
-      "price": 39288.0,
+      "price": 39188.0,
       "price_currency": "CAD"
     },
     {
@@ -1608,7 +1597,7 @@
       "make": "Kia",
       "model": "Niro EV",
       "condition": "new",
-      "price": 41288.0,
+      "price": 41188.0,
       "price_currency": "CAD"
     },
     {
@@ -1740,7 +1729,7 @@
       "make": "Kia",
       "model": "Niro EV",
       "condition": "new",
-      "price": 42388.0,
+      "price": 41188.0,
       "price_currency": "CAD"
     },
     {
@@ -1762,7 +1751,7 @@
       "make": "Kia",
       "model": "Niro EV",
       "condition": "new",
-      "price": 41888.0,
+      "price": 41188.0,
       "price_currency": "CAD"
     },
     {
@@ -1971,7 +1960,7 @@
       "make": "Kia",
       "model": "Niro EV",
       "condition": "new",
-      "price": 41888.0,
+      "price": 41111.0,
       "price_currency": "CAD"
     },
     {
@@ -2092,7 +2081,7 @@
       "make": "Kia",
       "model": "Niro EV",
       "condition": "new",
-      "price": 39888.0,
+      "price": 37111.0,
       "price_currency": "CAD"
     },
     {
@@ -2158,7 +2147,7 @@
       "make": "Kia",
       "model": "Niro EV",
       "condition": "new",
-      "price": 41888.0,
+      "price": 41111.0,
       "price_currency": "CAD"
     },
     {
@@ -2257,7 +2246,7 @@
       "make": "Kia",
       "model": "Seltos",
       "condition": "new",
-      "price": 38288.0,
+      "price": 38188.0,
       "price_currency": "CAD"
     },
     {
@@ -2466,7 +2455,7 @@
       "make": "Kia",
       "model": "Sorento Hybrid",
       "condition": "new",
-      "price": 45860.0,
+      "price": 45511.0,
       "price_currency": "CAD"
     },
     {
@@ -2554,7 +2543,7 @@
       "make": "Kia",
       "model": "Sorento Plug-In Hybrid",
       "condition": "new",
-      "price": 50830.0,
+      "price": 49188.0,
       "price_currency": "CAD"
     },
     {
@@ -2576,7 +2565,7 @@
       "make": "Kia",
       "model": "Sorento Plug-In Hybrid",
       "condition": "new",
-      "price": 51995.0,
+      "price": 51111.0,
       "price_currency": "CAD"
     },
     {
@@ -2609,7 +2598,7 @@
       "make": "Kia",
       "model": "Sportage Hybrid",
       "condition": "new",
-      "price": 42995.0,
+      "price": 42188.0,
       "price_currency": "CAD"
     },
     {
@@ -2653,7 +2642,7 @@
       "make": "Kia",
       "model": "Sportage Plug-In Hybrid",
       "condition": "new",
-      "price": 46995.0,
+      "price": 47188.0,
       "price_currency": "CAD"
     },
     {
@@ -2730,7 +2719,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 42288.0,
+      "price": 41188.0,
       "price_currency": "CAD"
     },
     {
@@ -3049,7 +3038,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 35845.0,
+      "price": 36188.0,
       "price_currency": "CAD"
     },
     {
