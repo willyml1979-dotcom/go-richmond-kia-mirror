@@ -1,6 +1,6 @@
 {
   "dealership": "Go Richmond Kia",
-  "generated_at": "2026-11-17T22:36:56",
+  "generated_at": "2026-11-18T07:33:59",
   "vehicle_count": 418,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -97,7 +97,7 @@
       "make": "MINI",
       "model": "3 Door Cooper - MANUAL - NO ACCIDENTS - LOW MILEAGE - LOCAL",
       "condition": "used",
-      "price": 12495.0,
+      "price": 11895.0,
       "price_currency": "CAD"
     },
     {
@@ -284,29 +284,29 @@
       "make": "Kia",
       "model": "Soul EV EV PREMIUM/ ONE OWNER/ NO ACCIDENTS/ LEASE RETURN",
       "condition": "used",
-      "price": 20495.0,
+      "price": 19311.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Kia Soul EV ev premium",
+      "name": "2022 Kia Soul EV EV PREMIUM/ LEASE RETURN / BACK UP CAMERA/ HEATED STEERING WHEEL",
       "vin": "KNDJ23A23N7028499",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/ef5e3d0bd544.html",
       "year": 2022,
       "make": "Kia",
       "model": "Soul EV EV",
       "condition": "used",
-      "price": 20495.0,
+      "price": 19511.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Kia Soul EV EV PREMIUM",
+      "name": "2022 Kia Soul EV EV PREMIUM / BACK UP CAMERA/ HEATED STEERING WHEEL",
       "vin": "KNDJ23A27N7027856",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/2ba3776f6304.html",
       "year": 2022,
       "make": "Kia",
       "model": "Soul EV EV",
       "condition": "used",
-      "price": 20895.0,
+      "price": 19995.0,
       "price_currency": "CAD"
     },
     {
@@ -317,7 +317,7 @@
       "make": "Kia",
       "model": "Soul EV EV",
       "condition": "used",
-      "price": 21295.0,
+      "price": 20595.0,
       "price_currency": "CAD"
     },
     {
@@ -328,7 +328,7 @@
       "make": "Kia",
       "model": "Soul EV EV PREMIUM/  ALLOYS/ AC/ BACK UP CAMERA/ BLUETOOTH/ NO ACCIDENTS",
       "condition": "used",
-      "price": 21095.0,
+      "price": 20111.0,
       "price_currency": "CAD"
     },
     {
@@ -387,14 +387,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Kia Soul EX",
+      "name": "2022 Kia Soul EX / Lease return/ ONE OWNER/ NO Accidents",
       "vin": "KNDJ33AUXN7824102",
       "url": "https://willyml1979-dotcom.github.io/go-richmond-kia-mirror/used/f3e026bb8b8c.html",
       "year": 2022,
       "make": "Kia",
       "model": "Soul",
       "condition": "used",
-      "price": 22695.0,
+      "price": 22195.0,
       "price_currency": "CAD"
     },
     {
@@ -416,7 +416,7 @@
       "make": "Subaru",
       "model": "Impreza",
       "condition": "used",
-      "price": 24795.0,
+      "price": 23911.0,
       "price_currency": "CAD"
     },
     {
@@ -438,7 +438,7 @@
       "make": "Audi",
       "model": "Q5",
       "condition": "used",
-      "price": 33695.0,
+      "price": 32911.0,
       "price_currency": "CAD"
     },
     {
@@ -537,7 +537,7 @@
       "make": "Kia",
       "model": "Soul EV EV",
       "condition": "used",
-      "price": 26195.0,
+      "price": 25695.0,
       "price_currency": "CAD"
     },
     {
@@ -702,7 +702,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "price": 35711.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024 Kia Seltos X-Line AWD / ONE OWNER/ ALLOYS/ BACK UP CAMERA",
@@ -733,7 +735,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Soul",
-      "condition": "used"
+      "condition": "used",
+      "price": 21911.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024 Kia Telluride X-Line / LOCAL VEHICLE / LEASE RETURN / NO ACCIDENTS / FULLY LOADED",
@@ -962,7 +966,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "K4",
-      "condition": "used"
+      "condition": "used",
+      "price": 24711.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2025 Kia Niro Hybrid SX",
@@ -1168,7 +1174,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "used",
-      "price": 50495.0,
+      "price": 49711.0,
       "price_currency": "CAD"
     },
     {
